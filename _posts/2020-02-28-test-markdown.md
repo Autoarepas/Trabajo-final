@@ -17,6 +17,7 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+![imagen](/assets/img/si.jpg)
 
 How about a yummy crepe?
 
