@@ -21,11 +21,7 @@ author: Samuel Banquett,Paula Caro, Carlos Raigoso, Luis Sánchez, Fabian Urrea,
 
 navbar-links:
   About Me: "sobre nosotros"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  
 ################
 # --- Logo --- #
 ################
