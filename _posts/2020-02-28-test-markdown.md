@@ -2,14 +2,8 @@
 layout: post
 title: Justificación
 subtitle: Mejora del restaurante y fabricadora de arepas
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
-
-
-
 **Here is some bold text**
 
 ## Here is a secondary heading
