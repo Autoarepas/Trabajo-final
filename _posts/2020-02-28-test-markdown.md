@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Justificación del proyecto
+title: Justificación
 subtitle: Mejora del restaurante y fabricadora de arepas
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
