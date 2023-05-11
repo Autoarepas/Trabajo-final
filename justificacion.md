@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about us
+title: Justificación
 subtitle: Elección del proyecyo y objetivos
 
 ---
