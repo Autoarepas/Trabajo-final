@@ -7,7 +7,7 @@ subtitle: Elección del proyecto y objetivos
 La empresa seleccionada para realizar el estudio es
 
 <p align="center">
-  <src="/assets/img/si.jpg">
+  <img src="/assets/img/si.jpg"/>
 </p>
 
 My name is Inigo Montoya. I have the following qualities:
