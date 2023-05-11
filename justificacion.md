@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Justificación
-subtitle: Elección del proyecyo y objetivos
+subtitle: Elección del proyecto y objetivos
 
 ---
+La empresa seleccionada para realizar el estudio es
 
-![si](/assets/img/si.jpg)
+<p align="center">
+  <src="/assets/img/si.jpg">
+</p>
 
 My name is Inigo Montoya. I have the following qualities:
 
