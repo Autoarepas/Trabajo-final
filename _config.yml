@@ -245,11 +245,11 @@ footer-hover-col: "#0085A1"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+#timezone: "America/Toronto"
+#markdown: kramdown
+#highlighter: rouge
+#permalink: /:year-:month-:day-:title/
+#paginate: 5
 
 kramdown:
   input: GFM
