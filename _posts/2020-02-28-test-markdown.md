@@ -2,7 +2,7 @@
 layout: post
 title: Justificación
 subtitle: Mejora del restaurante y fabricadora de arepas
-comments: true
+##comments: true
 ---
 **Here is some bold text**
 
