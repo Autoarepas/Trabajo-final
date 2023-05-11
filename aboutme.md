@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre nosotros
+title: about us
 subtitle: Elección del proyecyo y objetivos
 
 ---
