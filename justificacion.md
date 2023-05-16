@@ -6,7 +6,7 @@ subtitle: Elección del proyecto y objetivos
 ---
 Se seleccionó la empresa "La llanerada de la 68", ubicada en la carrera 68 con calle 68 de la ciudad de Bogotá D.C. Esta empresa se dedica a la fabricación de arepas para su restaurante del mismo nombre, ademas de la venta de este producto a restaurantes cercanos a su localización. 
 
-![si](../assets/img/si.jpg)
+![si](/assets/img/si.jpg)
 
 <div>
   <p style="text-align:center;">
