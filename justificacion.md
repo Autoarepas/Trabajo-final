@@ -14,6 +14,4 @@ Realizando un estudio previo se observó que para la fabricación de este produc
 
 El objetivo de trabajar con esta empresa es poder aumentar el indicador OEE de la fabricación del producto utilizando el mismo personal y al mismo tiempo automatizando las etapas del proceso, asi mismo poder llegar a una producción objetivo en un tiempo optimo y si es posible, aumentar la producción y las ventas. Ademas de este objetivo principal, tambien se evalurará el costo de la inversión para la mejora y observar si este proceso implica una disminución de costos y/o aumento de ganancias.
 
-<p align="center">
-![fabrica](/assets/img/fabrica.jpg)
-</p>
+![fabrica](/assets/img/fabrica.jpg | width=100 length=100)
