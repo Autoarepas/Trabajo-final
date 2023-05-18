@@ -9,7 +9,7 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
  <table>
   <tbody>
     <tr>
-     <p>Dproducción</p>
+     <td > Producción</td>
     </tr>
   </tbody>
  </table>
