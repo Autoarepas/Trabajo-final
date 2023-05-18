@@ -15,14 +15,11 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 | Sábado-Domingo | 800 |{: .mx-auto.d-block :}
 
 
-
-
 En el aspecto de maquinaria solo se encuentra un horno asador de arepas con una capacidad de 5 arepas cada 3 minutos aproximadamente (sin contar tiempos de ajuste iniciales como lo es el calentamiento)
 
-<img src="assets/img/horno inicial.JPG" alt="Image" width="300" height="200">
-
-<img src="assets/img/horno inicial.JPG" alt="Image" width="300" height="200">
-
+<p align="center">
+  <img src="assets/img/horno inicial.JPG" alt="Image" width="300" height="200">
+</p>
 
 
 
