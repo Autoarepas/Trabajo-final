@@ -6,19 +6,60 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 
 <style>
- body {
- background-color: #38CB17
- }
+ .filaOculta {
+  display: none;
+}
+table {
+  border-collapse: collapse;
+}
+tr {
+  cursor: pointer;
+}
+td {
+  text-align: center;
+}
+td:first-child {
+  border: 1px solid #000;
+  border-right: none;
+}
+td:not(:first-child):not(:last-child) {
+  border: 1px solid #000;
+  border-left: none;
+  border-right: none;
+}
+td:last-child {
+  border: 1px solid #000;
+  border-left: none;
+}
+td[colspan] {
+  border-left: 1px solid #000;
+}
+.anchoCeldas {
+  width: 150px;
+}
 </style>
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
- <table>
-  <tbody>
-    <tr>
-     <td > Producción</td>
-    </tr>
-  </tbody>
- </table>
+<table>
+  <tr class="filaParaPulsar">
+    <td class="anchoCeldas">
+      celda 1
+    </td>
+    <td>
+      celda 2
+    </td>
+    <td>
+      celda 3
+    </td>
+    <td>
+      celda 4
+    </td>
+  </tr>
+  <tr class="filaOculta">
+    <td colspan="4">Esta es la fila oculta</td>
+  </tr>
+  
+</table>
  
 | Dia(s) de la semana | Producción | 
 | :------: |:----: | 
