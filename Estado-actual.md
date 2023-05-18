@@ -4,6 +4,12 @@ title: Estado actual de la empresa
 subtitle: Que datos tenemos de la producción actual
 
 --- 
+
+<style>
+ body {
+ background-color: #38CB17
+ }
+</style>
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
  <table>
