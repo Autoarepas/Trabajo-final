@@ -6,6 +6,14 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
+ <table>
+  <tbody>
+    <tr>
+     <p>Dproducción<\p>
+    <\tr>
+  <\tbody>
+ <\table>
+ 
 | Dia(s) de la semana | Producción | 
 | :------: |:----: | 
 | Lunes-Jueves | 1000 |
