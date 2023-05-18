@@ -19,8 +19,9 @@ En el aspecto de maquinaria solo se encuentra un horno asador de arepas con una 
   <img src="/assets/img/horno.jpg" alt="fabrica" width="300" height="200">
 </p>
 
-![fabrica](/assets/img/horno.jpg){: .mx-auto.d-block :}
+![fabrica](/assets/img/horno.jpg | width=300 lenght=300)
 
+![fabrica](/assets/img/horno.jpg){: .mx-auto.d-block :}
 
 
 
