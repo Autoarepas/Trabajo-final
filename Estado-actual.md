@@ -6,48 +6,9 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 
 <style>
- .filaOculta {
-  display: none;
-}
-table {
-  border-collapse: collapse;
-}
-tr {
-  cursor: pointer;
-}
-td {
-  text-align: center;
-}
-td:first-child {
-  border: 1px solid #000;
-  border-right: none;
-}
-td:not(:first-child):not(:last-child) {
-  border: 1px solid #000;
-  border-left: none;
-  border-right: none;
-}
-td:last-child {
-  border: 1px solid #000;
-  border-left: none;
-}
-td[colspan] {
-  border-left: 1px solid #000;
-}
-.anchoCeldas {
-  width: 150px;
-}
+
 </style>
 
-<script>
-$(function() {
-  // Capturamos el evento click
-  $(".filaParaPulsar").click(function() {
-    // Alternamos visibilidad con la funcion slideToggle() de jquery, q lo q hace es q si está visible el elemento, entonces lo oculta, y si está oculto lo muestra
-    $(".filaOculta").slideToggle(); 
-  });
-});
-</script>
 
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
