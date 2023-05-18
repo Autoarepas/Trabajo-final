@@ -16,7 +16,14 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 
 </div>
 
-<div align="center">
+<style>
+.table-center {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+<div class="table-center">
 
 | Header 1 | Header 2 |
 |----------|----------|
