@@ -16,6 +16,14 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 
 </div>
 
+<div align="center">
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Content 1 | Content 2 |
+
+</div>
+
 ![horno](/assets/img/horno.jpg){: .mx-auto.d-block :}
 
 
