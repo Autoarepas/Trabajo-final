@@ -38,6 +38,17 @@ td[colspan] {
   width: 150px;
 }
 </style>
+
+<script>
+$(function() {
+  // Capturamos el evento click
+  $(".filaParaPulsar").click(function() {
+    // Alternamos visibilidad con la funcion slideToggle() de jquery, q lo q hace es q si está visible el elemento, entonces lo oculta, y si está oculto lo muestra
+    $(".filaOculta").slideToggle(); 
+  });
+});
+</script>
+
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
 <table>
