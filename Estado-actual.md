@@ -15,6 +15,10 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 
 En el aspecto de maquinaria solo se encuentra un horno asador de arepas con una capacidad de 5 arepas cada 3 minutos aproximadamente (sin contar tiempos de ajuste iniciales como lo es el precalentamiento)
 
+<div style="text-align:center">
+  <img src="/assets/img/horno.jpg" alt="Image" style="width:300px;height:200px;">
+</div>
+
 ![fabrica](/assets/img/horno.jpg){: .mx-auto.d-block :}
 
 
