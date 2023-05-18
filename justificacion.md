@@ -8,7 +8,7 @@ Se seleccionó la empresa "La llanerada de la 68", ubicada en la carrera 68 con 
 
 ![si](/assets/img/si.jpg){: .mx-auto.d-block :}
 
-Realizando un estudio previo se observó que para la fabricación de este producto todo el proceso se lleva de manera muy manual y es dependiente de un escaso personal. El proceso se lleva por medio 4 de etapas: La preparación de la masa, la fabricación del producto, el proceso de calentamiento y el empaquetamiento. Cada uno de estos procesos se lleva a cabo por medio de dos personas, por ende implica que maximo se puede usar el 50% de las maquinas, por ende se puede observar una naja eficiencia del uso de las herramientas de fabricación.
+Realizando un estudio previo se observó que para la fabricación de este producto todo el proceso se lleva de manera completamente manual y es dependiente de un escaso personal. El proceso se lleva por medio 4 de etapas: La preparación de la masa, la fabricación del producto, el proceso de calentamiento y el empaquetamiento. Cada uno de estos procesos se lleva a cabo por medio de dos personas, por ende implica que maximo se puede usar el 50% de las maquinas ya que no hay ningún proceso de automatizado, por ende se puede observar una naja eficiencia del uso de las herramientas de fabricación.
 
 ![horno](/assets/img/horno.jpg){: .mx-auto.d-block :}
 
