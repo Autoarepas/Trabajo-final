@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-  </style>
-</head>
-<body>
-  <!-- Markdown content goes here -->
-</body>
-</html>
-
 ---
 layout: page
 title: Estado actual de la empresa
