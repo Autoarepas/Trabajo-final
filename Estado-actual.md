@@ -6,7 +6,7 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
 
-<div align="center">
+
   
 | Dia(s) de la semana | Producción | 
 | :------ |:--- | 
@@ -14,22 +14,12 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 | Viernes | 600 |
 | Sábado-Domingo | 800 |
 
-</div>
 
-<style>
-.table-center {
-  display: flex;
-  justify-content: center;
-}
-</style>
+|     Header 1     |     Header 2     |
+|------------------|------------------|
+|    Content 1     |    Content 2     |
 
-<div class="table-center">
 
-| Header 1 | Header 2 |
-|----------|----------|
-| Content 1 | Content 2 |
-
-</div>
 
 ![horno](/assets/img/horno.jpg){: .mx-auto.d-block :}
 
