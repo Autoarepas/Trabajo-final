@@ -10,7 +10,6 @@ subtitle: Mejora del restaurante y fabricadora de arepas
 
 Here's a useless table:
 
-<center>
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -19,7 +18,6 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
   
-</center>  
 
 ![si](/assets/img/si.jpg)
 
