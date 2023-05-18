@@ -9,7 +9,7 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
 
   
 | Dia(s) de la semana | Producción | 
-| :------ |:--- | 
+| ---:--- |--:-- | 
 | Lunes-Jueves | 500 |
 | Viernes | 600 |
 | Sábado-Domingo | 800 |
