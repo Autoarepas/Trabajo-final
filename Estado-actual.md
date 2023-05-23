@@ -13,25 +13,35 @@ subtitle: Que datos tenemos de la producción actual
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
 <table>
-  <tr class="filaParaPulsar">
-    <td class="anchoCeldas">
-      celda 1
-    </td>
-    <td>
-      celda 2
-    </td>
-    <td>
-      celda 3
-    </td>
-    <td>
-      celda 4
-    </td>
-  </tr>
-  <tr class="filaOculta">
-    <td colspan="4">Esta es la fila oculta</td>
-  </tr>
+ <head>
+  <title>Table Example</title>
+</head>
+<body>
+  <table border="1">
+    <tr>
+      <th>Column 1</th>
+      <th>Column 2</th>
+      <th>Column 3</th>
+      <th>Column 4</th>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 3</td>
+      <td>Row 1, Cell 4</td>
+    </tr>
+    <tr>
+      <td>Row 2, Cell 1</td>
+      <td>Row 2, Cell 2</td>
+      <td>Row 2, Cell 3</td>
+      <td>Row 2, Cell 4</td>
+    </tr>
+  </table>
+</body>
   
 </table>
+ 
+ 
  
 | Dia(s) de la semana | Producción | 
 | :------: |:----: | 
