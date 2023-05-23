@@ -12,36 +12,39 @@ subtitle: Que datos tenemos de la producción actual
 
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
-<table>
- <head>
+<head>
   <title>Table Example</title>
+  <style>
+    .table-container {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
 </head>
 <body>
-  <table border="1">
-    <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-      <th>Column 3</th>
-      <th>Column 4</th>
-    </tr>
-    <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 3</td>
-      <td>Row 1, Cell 4</td>
-    </tr>
-    <tr>
-      <td>Row 2, Cell 1</td>
-      <td>Row 2, Cell 2</td>
-      <td>Row 2, Cell 3</td>
-      <td>Row 2, Cell 4</td>
-    </tr>
-  </table>
-</body>
-  
-</table>
- 
- 
+  <div class="table-container">
+    <table border="1">
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+        <th>Column 4</th>
+      </tr>
+      <tr>
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+        <td>Row 1, Cell 3</td>
+        <td>Row 1, Cell 4</td>
+      </tr>
+      <tr>
+        <td>Row 2, Cell 1</td>
+        <td>Row 2, Cell 2</td>
+        <td>Row 2, Cell 3</td>
+        <td>Row 2, Cell 4</td>
+      </tr>
+    </table>
+  </div>
+</body> 
  
 | Dia(s) de la semana | Producción | 
 | :------: |:----: | 
