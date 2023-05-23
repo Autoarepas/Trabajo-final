@@ -6,6 +6,7 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 
 <style>
+    <head>
     title {
       background-color: rgba(255, 255, 0, 0.5);
     }
@@ -17,6 +18,7 @@ subtitle: Que datos tenemos de la producción actual
     }
     
   </style>
+  </head>
 
 Discutiendo con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
  
