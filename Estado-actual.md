@@ -30,10 +30,6 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
   </style>
 </head>
 <body>
-   table {
-      background-color: rgba(0, 0, 139, 0.5);
-      color: white;
-    }
   <div class="table-container">
     <table border="1">
       <tr>
