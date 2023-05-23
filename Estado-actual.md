@@ -25,25 +25,21 @@ Discutiendo con el personal y con los administradores de la empresa tenemos los 
   <div class="table-container">
     <table border="1">
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
+        <th>Dia(s) de la semana</th>
+        <th>Producción</th>
       </tr>
       <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
+        <td> Lunes-Jueves</td>
+        <td>600</td>
       </tr>
       <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
+        <td>Viernes</td>
+        <td>800</td>
       </tr>
       <tr>
-        <td>Row 3, Cell 1</td>
-        <td>Row 3, Cell 2</td>
-      </tr>
-      <tr>
-        <td>Row 4, Cell 1</td>
-        <td>Row 4, Cell 2</td>
-      </tr>
+        <td>Sábado-Domingo</td>
+        <td>1000</td>
+     </tr>
     </table>
   </div>
 </body>
