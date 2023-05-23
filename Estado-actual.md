@@ -79,25 +79,26 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
         <th>Column 1</th>
         <th>Column 2</th>
         <th>Column 3</th>
-        <th>Column 4</th>
       </tr>
       <tr>
         <td>Row 1, Cell 1</td>
         <td>Row 1, Cell 2</td>
         <td>Row 1, Cell 3</td>
-        <td>Row 1, Cell 4</td>
       </tr>
       <tr>
         <td>Row 2, Cell 1</td>
         <td>Row 2, Cell 2</td>
         <td>Row 2, Cell 3</td>
-        <td>Row 2, Cell 4</td>
       </tr>
       <tr>
         <td>Row 3, Cell 1</td>
         <td>Row 3, Cell 2</td>
         <td>Row 3, Cell 3</td>
-        <td>Row 3, Cell 4</td>
+      </tr>
+      <tr>
+        <td>Row 4, Cell 1</td>
+        <td>Row 4, Cell 2</td>
+        <td>Row 4, Cell 3</td>
       </tr>
     </table>
   </div>
