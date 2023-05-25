@@ -20,3 +20,56 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
 
 ## Personas encargadas
 .................
+
+<head>
+    <title>Circular Photos with Text Example</title>
+    <style>
+        /* CSS styles for circular photos */
+        .photo-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .photo {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-right: 10px;
+        }
+        
+        .photo img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .text {
+            font-size: 16px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 1">
+        </div>
+        <div class="text">
+            Text 1
+        </div>
+    </div>
+    
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+            Text 2
+        </div>
+    </div>
+
+    <!-- Add more photo-container divs as needed -->
+
+</body>
