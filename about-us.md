@@ -70,6 +70,14 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
         </div>
     </div>
     
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+          Carlos Daniel Raigoso Triana  
+        </div>
+    </div>
     
     <div class="photo-container">
         <div class="photo">
@@ -101,14 +109,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
     </div>
     
     
-    <div class="photo-container">
-        <div class="photo">
-            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
-        </div>
-        <div class="text">
-            Text 2
-        </div>
-    </div>
+    
 
     <!-- Add more photo-container divs as needed -->
 
