@@ -63,7 +63,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
     
     <div class="photo-container">
         <div class="photo">
-            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+            <img src="/Trabajo-final/assets/img/paula.jpg" alt="Photo 2">
         </div>
         <div class="text">
             Maria Paula Caro Duarte
