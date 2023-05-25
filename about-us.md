@@ -57,9 +57,49 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 1">
         </div>
         <div class="text">
-            Text 1
+            Samuel Jose Banquett Arroyo
         </div>
     </div>
+    
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+            Maria Paula Caro Duarte
+        </div>
+    </div>
+    
+    
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+            Juan Pablo Santana
+        </div>
+    </div>
+    
+    
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+            Luis Felipe Sánchez Cardozo
+        </div>
+    </div>
+    
+    
+    <div class="photo-container">
+        <div class="photo">
+            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+        </div>
+        <div class="text">
+            Fabian Esteban Urrea Rojas
+        </div>
+    </div>
+    
     
     <div class="photo-container">
         <div class="photo">
