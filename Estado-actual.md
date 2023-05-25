@@ -83,7 +83,7 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
       <tr>
         <td>Preparación de la masa</td>
         <td>3 horas</td>
-          <td>1 preparación</td>
+        <td>1 preparación</td>
       </tr>
       <tr>
         <td>Moldeado del producto</td>
@@ -94,7 +94,6 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
         <td>Cocinado en horno</td>
         <td>3 minutos</td>
         <td>5 unidades</td>
-        <td>2 unidades</td>  
       </tr>
       <tr>
         <td>empaquetado 
