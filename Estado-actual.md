@@ -76,29 +76,37 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
   <div class="table-container">
     <table border="1">
       <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
+        <th>Proceso</th>
+        <th>Tiempo</th>
+        <th>Unidades</th>
+        <th>Tiempo total</th>  
       </tr>
       <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
+        <td>Preparación de la masa</td>
+        <td>3 horas</td>
+        <td>1 preparación</td>
       </tr>
       <tr>
-        <td>Row 2, Cell 1</td>
-        <td>Row 2, Cell 2</td>
-        <td>Row 2, Cell 3</td>
+        <td>Moldeado del producto</td>
+        <td> 1 minuto </td>
+        <td>2 unidades</td>
       </tr>
       <tr>
-        <td>Row 3, Cell 1</td>
-        <td>Row 3, Cell 2</td>
-        <td>Row 3, Cell 3</td>
+        <td>Cocinado en horno</td>
+        <td>3 minutos</td>
+        <td>5 unidades</td>
       </tr>
       <tr>
-        <td>Row 4, Cell 1</td>
-        <td>Row 4, Cell 2</td>
-        <td>Row 4, Cell 3</td>
+        <td>empaquetado 
+            (paquete 6 unidades)</td>
+        <td>1 minuto</td>
+        <td>6 unidades</td>
+      </tr>
+       <tr>
+        <td>empaquetado 
+            (paquete 12 unidades)</td>
+        <td> 3 minutos</td>
+        <td> 12 unidades</td>
       </tr>
     </table>
   </div>
