@@ -77,28 +77,33 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
       <tr>
         <th>Proceso</th>
         <th>Tiempo</th>
-        <th>Unidades</th>  
+        <th>Unidades</th> 
+        <th># de arepas</th>   
       </tr>
       <tr>
         <td>Preparación de la masa</td>
-        <td>3 horas</td>
+        <td>0.75 horas</td>
         <td>1 preparación</td>
+        <td>500</td>
       </tr>
       <tr>
         <td>Moldeado del producto</td>
         <td> 1 minuto </td>
-        <td>2 unidades</td>
+        <td> 3 unidades</td>
+        <td>3</td>  
       </tr>
       <tr>
         <td>Cocinado en horno</td>
-        <td>3 minutos</td>
-        <td>5 unidades</td>
+        <td>2 minutos</td>
+        <td>6 unidades</td>
+        <td>6</td>  
       </tr>
       <tr>
         <td>empaquetado 
             (paquete 6 unidades)</td>
         <td>1 minuto</td>
         <td>6 unidades</td>
+        <td>6</td>  
       </tr>
        <tr>
         <td>empaquetado 
@@ -115,6 +120,8 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
+
+Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
 
 
 
