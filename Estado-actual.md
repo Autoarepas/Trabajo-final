@@ -123,8 +123,12 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
 
 Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
 
+&#160;
+
+Para la parte del mantenimiento la empresa no brindó mayor información ademas de mostrar una politica de mantenimiento exclusivamente de tipo correctivo y de limpieza, por lo que los tiempos de mantenimiento son aleatorios y no se tienen resgistro de ellos.
 
 
-
-
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/mantenimiento.jpg" alt="Image" style="width:300px;height:300px;">
+</div>
 
