@@ -65,7 +65,7 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
     table {
       background-color: lightblue;
     }
-    td {
+    th, td {
             text-align: center;
         }
   </style>
