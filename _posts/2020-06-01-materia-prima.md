@@ -1,95 +1,61 @@
 
-Para conocer que se requiere para la producción se necesitan los siguientes ingredientes
+Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
-    <title>Image Alignment</title>
+    <title>Centered Dropdown Table</title>
     <style>
-        .container {
-            position: relative;
-            text-align: right;
+        table {
+            margin: 0 auto; /* Centers the table horizontally */
         }
 
-        .title {
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
             position: absolute;
-            top: 10px;
-            left: 10px;
-            color: white;
-            font-size: 20px;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 5px 10px;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1 class="Ejemplo">Title</h1>
-        <img src="[your_image.jpg](/Trabajo-final/assets/img/mantenimiento.jpg)" alt="Your Image">
-    </div>
+    <table>
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>
+                <div class="dropdown">
+                    <span>Row 1, Column 1</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 1</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="dropdown">
+                    <span>Row 1, Column 2</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 2</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <!-- Add more rows and columns as needed -->
+    </table>
 </body>
-
-
-Here's a useless table:
-
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-  
-
-![si](/assets/img/si.jpg)
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
