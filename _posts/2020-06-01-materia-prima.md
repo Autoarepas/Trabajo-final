@@ -1,6 +1,5 @@
 
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
-
 <head>
     <title>Centered Dropdown Table</title>
     <style>
@@ -37,6 +36,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <th>Header 1</th>
             <th>Header 2</th>
+            <th>Header 3</th>
         </tr>
         <tr>
             <td>
@@ -52,6 +52,40 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
                     <span>Row 1, Column 2</span>
                     <div class="dropdown-content">
                         <p>Dropdown Content 2</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="dropdown">
+                    <span>Row 1, Column 3</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 3</p>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="dropdown">
+                    <span>Row 2, Column 1</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 4</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="dropdown">
+                    <span>Row 2, Column 2</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 5</p>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="dropdown">
+                    <span>Row 2, Column 3</span>
+                    <div class="dropdown-content">
+                        <p>Dropdown Content 6</p>
                     </div>
                 </div>
             </td>
