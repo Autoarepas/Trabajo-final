@@ -23,14 +23,11 @@ Dialogando con el personal y con los administradores de la empresa tenemos los s
 <head>
   <title>Table Example</title>
   <style>
-        table {
-            width: 100%;
-        }
-
-        td {
-            text-align: center;
-        }
-    </style>
+    .table-container {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
 </head>
 <body>
   <div class="table-container">
