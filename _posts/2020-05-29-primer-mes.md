@@ -27,7 +27,7 @@ Para conocer que se requiere para la producción se necesitan los siguientes ing
 <body>
     <div class="container">
         <h1 class="Ejemplo">Title</h1>
-        <img src="[your_image.jpg](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)" alt="Your Image">
+        <img src="[your_image.jpg](/Trabajo-final/assets/img/mantenimiento.jpg)" alt="Your Image">
     </div>
 </body>
 
