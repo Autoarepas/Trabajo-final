@@ -1,12 +1,36 @@
 ---
 layout: post
-title: Justificación
-subtitle: Mejora del restaurante y fabricadora de arepas
-##comments: true
----
-**Here is some bold text**
+title: Materia prima de las arepas
+subtitle: Ingredientes del producto
 
-## Here is a secondary heading
+Para conocer que se requiere para la producción se necesitan los siguientes ingredientes
+
+<head>
+    <title>Image Alignment</title>
+    <style>
+        .container {
+            position: relative;
+            text-align: right;
+        }
+
+        .title {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: white;
+            font-size: 20px;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="Ejemplo">Title</h1>
+        <img src="[your_image.jpg](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)" alt="Your Image">
+    </div>
+</body>
+
 
 Here's a useless table:
 
