@@ -59,7 +59,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td colspan="3">
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         <tr id="row4-content" class="toggle-content">
@@ -69,7 +69,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td colspan="3">
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         </tr>
@@ -81,7 +81,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td colspan="3">
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row4-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         <tr id="row10-content" class="toggle-content">
@@ -92,7 +92,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td colspan="3">
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row5-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         </tr>
@@ -104,7 +104,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td colspan="3">
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row6-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         </tr>
@@ -112,9 +112,6 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Agua</td>
             <td>56 ml</td>
             <td>Row 4, Column 3</td>
-        </tr>
-    </table>
-</body>
 
 El costo promedio de la arepa es 2500 COP. El costo de la materia prima diario es en total de:
 
