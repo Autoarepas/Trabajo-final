@@ -52,17 +52,17 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
                 <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
-        <tr id="row2-content" class="toggle-content">
+        <tr id="row1-content" class="toggle-content">
             <td style="text-align: center">Harina</td>
             <td style="text-align: center">57.6 g</td>
             <td style="text-align: center">Row 1, Column 3</td>
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
-        <tr id="row4-content" class="toggle-content">
+        <tr id="row2-content" class="toggle-content">
             <td style="text-align: center">Queso</td>
             <td style="text-align: center">28.8 g</td>
             <td style="text-align: center">Row 2, Column 3</td>
