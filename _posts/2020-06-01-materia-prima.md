@@ -49,6 +49,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td colspan="3">
+                style="text-align: center"
                 <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -59,6 +60,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td colspan="3">
+                style="text-align: center"
                 <span id="row2-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -69,6 +71,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td colspan="3">
+                style="text-align: center"
                 <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -81,6 +84,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td colspan="3">
+                style="text-align: center"
                 <span id="row4-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
