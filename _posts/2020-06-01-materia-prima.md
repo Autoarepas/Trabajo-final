@@ -38,7 +38,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
                 button.innerHTML = 'Hide';
             } else {
                 content.style.display = 'none';
-                button.innerHTML = 'Show';
+                button.innerHTML = 'Mostrar';
             }
         }
     </script>
@@ -52,7 +52,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">                
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Harina</span>
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Mostrar</span>
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
@@ -62,17 +62,17 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Queso</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Mostrar</span>
             </td>
         </tr>
         <tr id="row2-content" class="toggle-content">
             <td style="text-align: center">Queso</td>
             <td style="text-align: center">28.8 g</td>
-            <td style="text-align: center">17 COP/kg</td>
+            <td style="text-align: center">17 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Azucar</span>
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Mostrar</span>
             </td>
         </tr>
         </tr>
@@ -84,7 +84,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Sal</span>
+                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Mostrar</span>
             </td>
         </tr>
         <tr id="row4-content" class="toggle-content">
@@ -95,7 +95,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Agua</span>
+                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Mostrar</span>
             </td>
         </tr>
         </tr>
@@ -107,7 +107,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
+                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Mostrar</span>
             </td>
         </tr>
         </tr>
