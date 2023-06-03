@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Materia prima de las arepas
-subtitle: Ingredientes del producto
+title: Materia prima
+subtitle: Ingredientes para un buen producto producto
 ---
 
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
@@ -61,7 +61,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
     </table>
 </body>
 
-El costo promedio de la arepa es 2500 COP. El costo de la materia prima diario es en total de:
+## Subtitle 1
+
+This is the content of subtitle 1.
 
 
 
