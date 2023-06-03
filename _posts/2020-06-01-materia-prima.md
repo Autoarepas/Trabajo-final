@@ -24,39 +24,39 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th> >Producto</th>
-            <th>Cantidad por unidad (g)</th>
-            <th>Costo unitario</th>
+            <th style="text-align: center"> >Producto</th>
+            <th style="text-align: center">Cantidad por unidad (g)</th>
+            <th style="text-align: center">Costo unitario</th>
         </tr>
         <tr>
-            <td>Harina</td>
-            <td>57.6 g</td>
-            <td>36.4 COP/g</td>
+            <td style="text-align: center">Harina</td>
+            <td style="text-align: center">57.6 g</td>
+            <td style="text-align: center">36.4 COP/g</td>
         </tr>
         <tr>
-            <td>Queso</td>
-            <td>28.8 g</td>
-            <td>17 COP/g</td>
+            <td style="text-align: center">Queso</td>
+            <td style="text-align: center">28.8 g</td>
+            <td style="text-align: center">17 COP/g</td>
         </tr>
         <tr>
-            <td>Azucar</td>
-            <td>3.2 g</td>
-            <td>4.5 COP/g</td>
+            <td style="text-align: center">Azucar</td>
+            <td style="text-align: center">3.2 g</td>
+            <td style="text-align: center">4.5 COP/g</td>
         </tr>
         <tr>
-            <td>Sal</td>
-            <td>1.6 g</td>
-            <td>2.33 COP/g</td>
+            <td style="text-align: center">Sal</td>
+            <td style="text-align: center">1.6 g</td>
+            <td style="text-align: center">2.33 COP/g</td>
         </tr>
         <tr>
-            <td>Mantequilla</td>
-            <td>12.8 g</td>
-            <td>15.65 COP/g</td>
+            <td style="text-align: center">Mantequilla</td>
+            <td style="text-align: center">12.8 g</td>
+            <td style="text-align: center">15.65 COP/g</td>
         </tr>
         <tr>
-            <td>Agua</td>
-            <td>56 mL</td>
-            <td>4.88 COP/L</td>
+            <td style="text-align: center">Agua</td>
+            <td style="text-align: center">56 mL</td>
+            <td style="text-align: center">4.88 COP/L</td>
         </tr>
     </table>
 </body>
