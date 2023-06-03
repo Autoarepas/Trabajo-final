@@ -24,7 +24,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th <style> text-align: center; </style> >Producto</th>
+            <th> >Producto</th>
             <th>Cantidad por unidad (g)</th>
             <th>Costo unitario</th>
         </tr>
