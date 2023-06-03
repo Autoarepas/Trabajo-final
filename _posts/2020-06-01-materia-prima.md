@@ -8,9 +8,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 
 <head>
     <title>Centered Table Example</title>
-    <style .color-cell {
-            background-color: #DAF7A6; /* Replace with desired color code */
-        }>
+    <style>
         table {
             border-collapse: collapse;
             margin: 0 auto;
