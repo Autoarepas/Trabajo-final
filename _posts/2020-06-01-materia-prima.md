@@ -1,3 +1,9 @@
+---
+layout: post
+title: Materia prima de las arepas
+subtitle: Ingredientes del producto
+---
+
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
