@@ -2,7 +2,7 @@
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
-    <title>Retractable Table</title>
+    <title>Retractable Title Table</title>
     <style>
         table {
             border-collapse: collapse;
@@ -53,8 +53,10 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td></td>
         </tr>
         <tr id="row1-content" class="toggle-content">
-            <td>Row 1</td>
-            <td>Content 1</td>
+            <td colspan="2">
+                <h3>Row 1 Title</h3>
+                <p>Content 1</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -63,8 +65,10 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td></td>
         </tr>
         <tr id="row2-content" class="toggle-content">
-            <td>Row 2</td>
-            <td>Content 2</td>
+            <td colspan="2">
+                <h3>Row 2 Title</h3>
+                <p>Content 2</p>
+            </td>
         </tr>
         <tr>
             <td>
@@ -73,8 +77,10 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td></td>
         </tr>
         <tr id="row3-content" class="toggle-content">
-            <td>Row 3</td>
-            <td>Content 3</td>
+            <td colspan="2">
+                <h3>Row 3 Title</h3>
+                <p>Content 3</p>
+            </td>
         </tr>
     </table>
 </body>
