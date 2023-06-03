@@ -118,7 +118,7 @@ En el aspecto de maquinaria se encuentra un horno asador de arepas con una capac
 &#160;
 
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:300px;height:300px;">
+  <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:350px;height:300px;">
 </div>
 
 Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
