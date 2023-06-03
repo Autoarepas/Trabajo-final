@@ -69,11 +69,11 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row5-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         </tr>
-        <tr id="row6-content" class="toggle-content">
+        <tr id="row3-content" class="toggle-content">
             <td>Azucar</td>
             <td>3.2 g</td>
             <td>Row 3, Column 3</td>
