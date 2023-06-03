@@ -1,29 +1,24 @@
 
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
+
 <head>
-    <title>Centered Dropdown Table</title>
+    <title>Drop-down Table</title>
     <style>
         table {
-            margin: 0 auto; /* Centers the table horizontally */
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
         }
 
         th, td {
-            padding: 10px;
-            text-align: center;
-        }
-
-        .dropdown {
-            position: relative;
-            display: inline-block;
+            padding: 8px;
+            text-align: left;
         }
 
         .dropdown-content {
             display: none;
-            position: absolute;
-            background-color: #f9f9f9;
-            min-width: 160px;
-            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-            z-index: 1;
         }
 
         .dropdown:hover .dropdown-content {
@@ -36,60 +31,36 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <th>Header 1</th>
             <th>Header 2</th>
-            <th>Header 3</th>
         </tr>
-        <tr>
+        <tr class="dropdown">
+            <td>Row 1</td>
             <td>
-                <div class="dropdown">
-                    <span>Row 1, Column 1</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 1</p>
-                    </div>
-                </div>
-            </td>
-            <td>
-                <div class="dropdown">
-                    <span>Row 1, Column 2</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 2</p>
-                    </div>
-                </div>
-            </td>
-            <td>
-                <div class="dropdown">
-                    <span>Row 1, Column 3</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 3</p>
-                    </div>
+                <div class="dropdown-content">
+                    <p>Dropdown Content 1</p>
+                    <p>Dropdown Content 2</p>
+                    <p>Dropdown Content 3</p>
                 </div>
             </td>
         </tr>
-        <tr>
+        <tr class="dropdown">
+            <td>Row 2</td>
             <td>
-                <div class="dropdown">
-                    <span>Row 2, Column 1</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 4</p>
-                    </div>
-                </div>
-            </td>
-            <td>
-                <div class="dropdown">
-                    <span>Row 2, Column 2</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 5</p>
-                    </div>
-                </div>
-            </td>
-            <td>
-                <div class="dropdown">
-                    <span>Row 2, Column 3</span>
-                    <div class="dropdown-content">
-                        <p>Dropdown Content 6</p>
-                    </div>
+                <div class="dropdown-content">
+                    <p>Dropdown Content 4</p>
+                    <p>Dropdown Content 5</p>
+                    <p>Dropdown Content 6</p>
                 </div>
             </td>
         </tr>
-        <!-- Add more rows and columns as needed -->
+        <tr class="dropdown">
+            <td>Row 3</td>
+            <td>
+                <div class="dropdown-content">
+                    <p>Dropdown Content 7</p>
+                    <p>Dropdown Content 8</p>
+                    <p>Dropdown Content 9</p>
+                </div>
+            </td>
+        </tr>
     </table>
 </body>
