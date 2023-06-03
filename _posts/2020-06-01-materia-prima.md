@@ -69,7 +69,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
             </td>
         </tr>
         </tr>
@@ -81,10 +81,10 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row7-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
             </td>
         </tr>
-        <tr id="row8-content" class="toggle-content">
+        <tr id="row4-content" class="toggle-content">
             <td>Sal</td>
             <td>1.6 g</td>
             <td>Row 4, Column 3</td>
@@ -92,11 +92,11 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row9-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
             </td>
         </tr>
         </tr>
-        <tr id="row10-content" class="toggle-content">
+        <tr id="row5-content" class="toggle-content">
             <td>Mantequilla</td>
             <td>12.8 g</td>
             <td>Row 4, Column 3</td>
@@ -104,11 +104,11 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row11-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
             </td>
         </tr>
         </tr>
-        <tr id="row12-content" class="toggle-content">
+        <tr id="row6-content" class="toggle-content">
             <td>Agua</td>
             <td>56 ml</td>
             <td>Row 4, Column 3</td>
