@@ -6,16 +6,6 @@ subtitle: Que datos tenemos de la producción actual
 --- 
 
 <style>
-    title {
-      background-color: rgba(255, 255, 0, 0.5);
-    }
-    body {
-      background-color: #F5F5DC;
-    }
-    table {
-      background-color: rgba(255, 255, 0, 0.5);
-    }
-    
   </style>
   
 Dialogando con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
