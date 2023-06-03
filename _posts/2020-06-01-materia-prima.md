@@ -48,14 +48,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <th>Costo unitario</th>
         </tr>
         <tr>
-            <th colspan="3">Combined Cells</th>
-        </tr>
-        <tr>
-            <td colspan="2">
+            <td colspan="3">
                 <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
-            </td>
-            <td>
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
