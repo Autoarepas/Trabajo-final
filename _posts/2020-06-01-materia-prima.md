@@ -1,8 +1,7 @@
-
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
-    <title>Centered Retractable Table with Images</title>
+    <title>Centered Retractable Table</title>
     <style>
         table {
             border-collapse: collapse;
@@ -44,8 +43,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Image 1</th>
-            <th>Image 2</th>
+            <th>Column 1</th>
+            <th>Column 2</th>
         </tr>
         <tr>
             <td>
@@ -56,20 +55,36 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
+            <td>Row 1, Column 1</td>
+            <td>Row 1, Column 2</td>
+        </tr>
+        <tr>
             <td>
-                <img src="image1.jpg" alt="Image 1" width="200" height="150">
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
             </td>
             <td>
-                <img src="image2.jpg" alt="Image 2" width="200" height="150">
+                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
             </td>
         </tr>
-        <tr id="row2-content" class="toggle-content">
+        <tr id="row3-content" class="toggle-content">
+            <td>Row 2, Column 1</td>
+            <td>Row 2, Column 2</td>
+        </tr>
+        <tr>
             <td>
-                <img src="image3.jpg" alt="Image 3" width="200" height="150">
+                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
             </td>
             <td>
-                <img src="image4.jpg" alt="Image 4" width="200" height="150">
+                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
             </td>
+        </tr>
+        <tr id="row5-content" class="toggle-content">
+            <td>Row 3, Column 1</td>
+            <td>Row 3, Column 2</td>
+        </tr>
+        <tr id="row6-content" class="toggle-content">
+            <td>Row 4, Column 1</td>
+            <td>Row 4, Column 2</td>
         </tr>
     </table>
 </body>
