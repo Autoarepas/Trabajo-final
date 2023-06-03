@@ -52,57 +52,57 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">                
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Harina</span>
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
             <td style="text-align: center">Harina</td>
             <td style="text-align: center">57.6 g</td>
-            <td style="text-align: center">Row 1, Column 3</td>
+            <td style="text-align: center">3.64 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Queso</span>
             </td>
         </tr>
         <tr id="row2-content" class="toggle-content">
             <td style="text-align: center">Queso</td>
             <td style="text-align: center">28.8 g</td>
-            <td style="text-align: center">Row 2, Column 3</td>
+            <td style="text-align: center">17 COP/kg</td>
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
+                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Azucar</span>
             </td>
         </tr>
         </tr>
         <tr id="row3-content" class="toggle-content">
-            <td>Azucar</td>
-            <td>3.2 g</td>
-            <td>Row 3, Column 3</td>
+            <td style="text-align: center">Azucar</td>
+            <td style="text-align: center">3.2 g</td>
+            <td style="text-align: center">4.5 COP/g</td>
         </tr>
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
+                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Sal</span>
             </td>
         </tr>
         <tr id="row4-content" class="toggle-content">
-            <td>Sal</td>
-            <td>1.6 g</td>
-            <td>Row 4, Column 3</td>
+            <td style="text-align: center">Sal</td>
+            <td style="text-align: center">1.6 g</td>
+            <td style="text-align: center">2.33 COP/g</td>
         </tr>
         <tr>
             <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
+                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Agua</span>
             </td>
         </tr>
         </tr>
         <tr id="row5-content" class="toggle-content">
-            <td>Mantequilla</td>
-            <td>12.8 g</td>
-            <td>Row 4, Column 3</td>
+            <td style="text-align: center">Mantequilla</td>
+            <td style="text-align: center">12.8 g</td>
+            <td style="text-align: center">15.65 COP/g</td>
         </tr>
         <tr>
             <tr>
@@ -112,9 +112,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         </tr>
         <tr id="row6-content" class="toggle-content">
-            <td>Agua</td>
-            <td>56 ml</td>
-            <td>Row 4, Column 3</td>
+            <td style="text-align: center">Agua</td>
+            <td style="text-align: center">56 ml</td>
+            <td style="text-align: center">4.88 COP/L</td>
 
 El costo promedio de la arepa es 2500 COP. El costo de la materia prima diario es en total de:
 
