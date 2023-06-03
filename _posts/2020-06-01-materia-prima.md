@@ -58,14 +58,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 1, Column 3</td>
         </tr>
         <tr>
-            <td>
-                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
-            </td>
-            <td>
-                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
-            </td>
-            <td>
-                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
+            <td colspan="3">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         <tr id="row4-content" class="toggle-content">
@@ -74,15 +68,10 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 2, Column 3</td>
         </tr>
         <tr>
-            <td>
-                <span id="row7-button" class="toggle-button" onclick="toggleContent('row7')">Show</span>
+            <td colspan="3">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
-            <td>
-                <span id="row8-button" class="toggle-button" onclick="toggleContent('row8')">Show</span>
-            </td>
-            <td>
-                <span id="row9-button" class="toggle-button" onclick="toggleContent('row9')">Show</span>
-            </td>
+        </tr>
         </tr>
         <tr id="row7-content" class="toggle-content">
             <td>Azucar</td>
@@ -90,15 +79,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 3, Column 3</td>
         </tr>
         <tr>
-            <td>
-                
-                <span id="row10-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
-            </td>
-            <td>
-                <span id="row11-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
-            </td>
-            <td>
-                <span id="row12-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
+            <tr>
+            <td colspan="3">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
         <tr id="row10-content" class="toggle-content">
@@ -107,15 +90,11 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 4, Column 3</td>
         </tr>
         <tr>
-            <td>
-                <span id="row13-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
+            <tr>
+            <td colspan="3">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
-            <td>
-                <span id="row14-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
-            </td>
-            <td>
-                <span id="row15-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
-            </td>
+        </tr>
         </tr>
         <tr id="row10-content" class="toggle-content">
             <td>Mantequilla</td>
@@ -123,15 +102,11 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 4, Column 3</td>
         </tr>
         <tr>
-            <td>
-                <span id="row16-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
+            <tr>
+            <td colspan="3">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
-            <td>
-                <span id="row17-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
-            </td>
-            <td>
-                <span id="row18-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
-            </td>
+        </tr>
         </tr>
         <tr id="row10-content" class="toggle-content">
             <td>Agua</td>
