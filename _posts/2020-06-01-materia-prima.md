@@ -48,14 +48,14 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <th>Costo unitario</th>
         </tr>
         <tr>
-             <td>
-                <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
+            <th colspan="3">Combined Cells</th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
             <td>
-                <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
-            </td>
-            <td>
-                <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
@@ -97,6 +97,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td>
+                
                 <span id="row10-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
             </td>
             <td>
@@ -113,13 +114,13 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td>
-                <span id="row10-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
+                <span id="row13-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
             </td>
             <td>
-                <span id="row11-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
+                <span id="row14-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
             </td>
             <td>
-                <span id="row12-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
+                <span id="row15-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
             </td>
         </tr>
         <tr id="row10-content" class="toggle-content">
@@ -129,13 +130,13 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td>
-                <span id="row10-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
+                <span id="row16-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
             </td>
             <td>
-                <span id="row11-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
+                <span id="row17-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
             </td>
             <td>
-                <span id="row12-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
+                <span id="row18-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
             </td>
         </tr>
         <tr id="row10-content" class="toggle-content">
