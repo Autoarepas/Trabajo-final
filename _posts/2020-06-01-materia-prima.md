@@ -26,7 +26,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             text-decoration: underline;
         }
         .color-cell {
-            background-color: #DAF7A6; /* Replace with desired color code */
+            background-color: #DAF7A6; 
         }
     </style>
     <script>
@@ -35,7 +35,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             var button = document.getElementById(rowId + '-button');
             if (content.style.display === 'none') {
                 content.style.display = 'table-row';
-                button.innerHTML = 'Hide';
+                button.innerHTML = 'Ocultar';
             } else {
                 content.style.display = 'none';
                 button.innerHTML = 'Mostrar';
@@ -52,7 +52,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">                
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Mostrar</span>
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Harina</span>
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
@@ -62,7 +62,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Mostrar</span>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Queso</span>
             </td>
         </tr>
         <tr id="row2-content" class="toggle-content">
