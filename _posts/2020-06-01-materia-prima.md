@@ -43,8 +43,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
+            <th>Producto</th>
+            <th>Cantidad por unidad</th>
+            <th>Costo unitario</th>
         </tr>
         <tr>
             <td>
@@ -55,7 +56,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
-            <td>Row 1, Column 1</td>
+            <td></td>
             <td>Row 1, Column 2</td>
         </tr>
         <tr>
@@ -86,5 +87,29 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>Row 4, Column 1</td>
             <td>Row 4, Column 2</td>
         </tr>
+        <tr id="row6-content" class="toggle-content">
+            <td>Row 4, Column 1</td>
+            <td>Row 4, Column 2</td>
+        </tr>
+        <tr id="row6-content" class="toggle-content">
+            <td>Row 4, Column 1</td>
+            <td>Row 4, Column 2</td>
+        </tr>
+        <tr id="row6-content" class="toggle-content">
+            <td>Row 4, Column 1</td>
+            <td>Row 4, Column 2</td>
+        </tr>
+        <tr id="row6-content" class="toggle-content">
+            <td>Row 4, Column 1</td>
+            <td>Row 4, Column 2</td>
+        </tr>
     </table>
 </body>
+
+El costo promedio de la arepa es 2500 COP. El costo de la materia prima diario es en total de:
+
+
+
+
+
+
