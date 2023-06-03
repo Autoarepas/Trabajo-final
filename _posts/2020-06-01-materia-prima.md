@@ -48,8 +48,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <th>Costo unitario</th>
         </tr>
         <tr>
-            <td colspan="3">
-                style="text-align: center"
+            <td style="text-align: center" colspan="3">                
                 <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
