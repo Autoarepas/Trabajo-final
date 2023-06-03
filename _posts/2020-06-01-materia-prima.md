@@ -2,40 +2,35 @@
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
-    <title>Retractable Title Table</title>
+    <title>Tabla Oculta</title>
     <style>
         table {
             border-collapse: collapse;
+            margin: 0 auto;
         }
 
         table, th, td {
             border: 1px solid black;
+            text-align: center;
         }
 
         th, td {
             padding: 8px;
-            text-align: left;
         }
 
-        .toggle-content {
-            display: none;
-        }
-
-        .toggle-button {
-            cursor: pointer;
-            text-decoration: underline;
+        .hidden {
+            visibility: hidden;
         }
     </style>
     <script>
         function toggleContent(rowId) {
-            var content = document.getElementById(rowId + '-content');
-            var button = document.getElementById(rowId + '-button');
-            if (content.style.display === 'none') {
-                content.style.display = 'table-row';
-                button.innerHTML = 'Hide';
-            } else {
-                content.style.display = 'none';
-                button.innerHTML = 'Show';
+            var rowValues = document.getElementsByClassName(rowId + '-value');
+            for (var i = 0; i < rowValues.length; i++) {
+                if (rowValues[i].classList.contains('hidden')) {
+                    rowValues[i].classList.remove('hidden');
+                } else {
+                    rowValues[i].classList.add('hidden');
+                }
             }
         }
     </script>
@@ -43,44 +38,21 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
+            <th onclick="toggleContent('row1')">Título 1</th>
+            <th onclick="toggleContent('row2')">Título 2</th>
         </tr>
         <tr>
-            <td>
-                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
-            </td>
-            <td></td>
-        </tr>
-        <tr id="row1-content" class="toggle-content">
-            <td colspan="2">
-                <h3>Row 1 Title</h3>
-                <p>Content 1</p>
-            </td>
+            <td class="row1-value">Valor 1</td>
+            <td class="row2-value">Valor 2</td>
         </tr>
         <tr>
-            <td>
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
-            </td>
-            <td></td>
-        </tr>
-        <tr id="row2-content" class="toggle-content">
-            <td colspan="2">
-                <h3>Row 2 Title</h3>
-                <p>Content 2</p>
-            </td>
+            <td class="row1-value">Valor 3</td>
+            <td class="row2-value">Valor 4</td>
         </tr>
         <tr>
-            <td>
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
-            </td>
-            <td></td>
-        </tr>
-        <tr id="row3-content" class="toggle-content">
-            <td colspan="2">
-                <h3>Row 3 Title</h3>
-                <p>Content 3</p>
-            </td>
+            <td class="row1-value">Valor 5</td>
+            <td class="row2-value">Valor 6</td>
         </tr>
     </table>
 </body>
+</html>
