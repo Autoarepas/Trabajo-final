@@ -25,6 +25,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             cursor: pointer;
             text-decoration: underline;
         }
+        .color-cell {
+            background-color: #DAF7A6; /* Replace with desired color code */
+        }
     </style>
     <script>
         function toggleContent(rowId) {
