@@ -2,7 +2,7 @@
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
 
 <head>
-    <title>Tabla Oculta</title>
+    <title>Centered Retractable Table with Images</title>
     <style>
         table {
             border-collapse: collapse;
@@ -18,19 +18,25 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             padding: 8px;
         }
 
-        .hidden {
-            visibility: hidden;
+        .toggle-content {
+            display: none;
+        }
+
+        .toggle-button {
+            cursor: pointer;
+            text-decoration: underline;
         }
     </style>
     <script>
         function toggleContent(rowId) {
-            var rowValues = document.getElementsByClassName(rowId + '-value');
-            for (var i = 0; i < rowValues.length; i++) {
-                if (rowValues[i].classList.contains('hidden')) {
-                    rowValues[i].classList.remove('hidden');
-                } else {
-                    rowValues[i].classList.add('hidden');
-                }
+            var content = document.getElementById(rowId + '-content');
+            var button = document.getElementById(rowId + '-button');
+            if (content.style.display === 'none') {
+                content.style.display = 'table-row';
+                button.innerHTML = 'Hide';
+            } else {
+                content.style.display = 'none';
+                button.innerHTML = 'Show';
             }
         }
     </script>
@@ -38,21 +44,32 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th onclick="toggleContent('row1')">Título 1</th>
-            <th onclick="toggleContent('row2')">Título 2</th>
+            <th>Image 1</th>
+            <th>Image 2</th>
         </tr>
         <tr>
-            <td class="row1-value">Valor 1</td>
-            <td class="row2-value">Valor 2</td>
+            <td>
+                <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
+            </td>
+            <td>
+                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
+            </td>
         </tr>
-        <tr>
-            <td class="row1-value">Valor 3</td>
-            <td class="row2-value">Valor 4</td>
+        <tr id="row1-content" class="toggle-content">
+            <td>
+                <img src="image1.jpg" alt="Image 1" width="200" height="150">
+            </td>
+            <td>
+                <img src="image2.jpg" alt="Image 2" width="200" height="150">
+            </td>
         </tr>
-        <tr>
-            <td class="row1-value">Valor 5</td>
-            <td class="row2-value">Valor 6</td>
+        <tr id="row2-content" class="toggle-content">
+            <td>
+                <img src="image3.jpg" alt="Image 3" width="200" height="150">
+            </td>
+            <td>
+                <img src="image4.jpg" alt="Image 4" width="200" height="150">
+            </td>
         </tr>
     </table>
 </body>
-</html>
