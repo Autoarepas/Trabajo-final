@@ -59,7 +59,6 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <td style="text-align: center" colspan="3">
-                style="text-align: center"
                 <span id="row2-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -69,8 +68,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td style="text-align: center">Row 2, Column 3</td>
         </tr>
         <tr>
-            <td tyle="text-align: center" colspan="3">
-                style="text-align: center"
+            <td style="text-align: center" colspan="3">
                 <span id="row3-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -82,8 +80,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <tr>
-            <td tyle="text-align: center" colspan="3">
-                style="text-align: center"
+            <td style="text-align: center" colspan="3">
                 <span id="row4-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -94,7 +91,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <tr>
-            <td tyle="text-align: center" colspan="3">
+            <td style="text-align: center" colspan="3">
                 <span id="row5-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
@@ -106,7 +103,7 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
         </tr>
         <tr>
             <tr>
-            <td tyle="text-align: center" colspan="3">
+            <td style="text-align: center" colspan="3">
                 <span id="row6-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
         </tr>
