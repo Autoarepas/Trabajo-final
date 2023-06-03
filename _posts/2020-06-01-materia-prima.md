@@ -43,24 +43,18 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
-            <th>Column 3</th>
+            <th>Producto</th>
+            <th>Cantidad por unidad</th>
+            <th>Costo unitario</th>
         </tr>
         <tr>
             <td>
                 <span id="row1-button" class="toggle-button" onclick="toggleContent('row1')">Show</span>
             </td>
-            <td>
-                <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
-            </td>
-            <td>
-                <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
-            </td>
         </tr>
         <tr id="row1-content" class="toggle-content">
-            <td>Row 1, Column 1</td>
-            <td>Row 1, Column 2</td>
+            <td>Harina</td>
+            <td>57.6 g</td>
             <td>Row 1, Column 3</td>
         </tr>
         <tr>
@@ -75,8 +69,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             </td>
         </tr>
         <tr id="row4-content" class="toggle-content">
-            <td>Row 2, Column 1</td>
-            <td>Row 2, Column 2</td>
+            <td>Queso</td>
+            <td>28.8 g</td>
             <td>Row 2, Column 3</td>
         </tr>
         <tr>
@@ -91,8 +85,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             </td>
         </tr>
         <tr id="row7-content" class="toggle-content">
-            <td>Row 3, Column 1</td>
-            <td>Row 3, Column 2</td>
+            <td>Azucar</td>
+            <td>3.2 g</td>
             <td>Row 3, Column 3</td>
         </tr>
         <tr>
@@ -107,8 +101,8 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             </td>
         </tr>
         <tr id="row10-content" class="toggle-content">
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
+            <td>Sal</td>
+            <td>1.6 g</td>
             <td>Row 4, Column 3</td>
         </tr>
     </table>
