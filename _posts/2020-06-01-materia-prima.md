@@ -2,7 +2,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 
 <head>
     <title>Centered Table Example</title>
-    <style>
+    <style .color-cell {
+            background-color: #DAF7A6; /* Replace with desired color code */
+        }>
         table {
             border-collapse: collapse;
             margin: 0 auto;
@@ -18,39 +20,39 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Header 1</th>
-            <th>Header 2</th>
-            <th>Header 3</th>
+            <th>Producto</th>
+            <th>Cantidad por unidad (g)</th>
+            <th>Costo unitario</th>
         </tr>
         <tr>
-            <td>Cell 1</td>
-            <td>Cell 2</td>
-            <td>Cell 3</td>
+            <td>Harina</td>
+            <td>57.6 g</td>
+            <td>36.4 COP/g</td>
         </tr>
         <tr>
-            <td>Cell 4</td>
-            <td>Cell 5</td>
-            <td>Cell 6</td>
+            <td>Queso</td>
+            <td>28.8 g</td>
+            <td>17 COP/g</td>
         </tr>
         <tr>
-            <td>Cell 7</td>
-            <td>Cell 8</td>
-            <td>Cell 9</td>
+            <td>Azucar</td>
+            <td>3.2 g</td>
+            <td>4.5 COP/g</td>
         </tr>
         <tr>
-            <td>Cell 10</td>
-            <td>Cell 11</td>
-            <td>Cell 12</td>
+            <td>Sal</td>
+            <td>1.6 g</td>
+            <td>2.33 COP/g</td>
         </tr>
         <tr>
-            <td>Cell 13</td>
-            <td>Cell 14</td>
-            <td>Cell 15</td>
+            <td>Mantequilla</td>
+            <td>12.8 g</td>
+            <td>15.65 COP/g</td>
         </tr>
         <tr>
-            <td>Cell 16</td>
-            <td>Cell 17</td>
-            <td>Cell 18</td>
+            <td>Agua</td>
+            <td>56 mL</td>
+            <td>4.88 COP/L</td>
         </tr>
     </table>
 </body>
