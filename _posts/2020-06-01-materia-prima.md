@@ -43,9 +43,9 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
 <body>
     <table>
         <tr>
-            <th>Producto</th>
-            <th>Cantidad por unidad</th>
-            <th>Costo unitario</th>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
         </tr>
         <tr>
             <td>
@@ -54,24 +54,19 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
             <td>
                 <span id="row2-button" class="toggle-button" onclick="toggleContent('row2')">Show</span>
             </td>
-        </tr>
-        <tr id="row1-content" class="toggle-content">
-            <td></td>
-            <td>Row 1, Column 2</td>
-        </tr>
-        <tr>
             <td>
                 <span id="row3-button" class="toggle-button" onclick="toggleContent('row3')">Show</span>
             </td>
+        </tr>
+        <tr id="row1-content" class="toggle-content">
+            <td>Row 1, Column 1</td>
+            <td>Row 1, Column 2</td>
+            <td>Row 1, Column 3</td>
+        </tr>
+        <tr>
             <td>
                 <span id="row4-button" class="toggle-button" onclick="toggleContent('row4')">Show</span>
             </td>
-        </tr>
-        <tr id="row3-content" class="toggle-content">
-            <td>Row 2, Column 1</td>
-            <td>Row 2, Column 2</td>
-        </tr>
-        <tr>
             <td>
                 <span id="row5-button" class="toggle-button" onclick="toggleContent('row5')">Show</span>
             </td>
@@ -79,29 +74,42 @@ Para conocer los requerimientos para la producción se necesitan los siguientes 
                 <span id="row6-button" class="toggle-button" onclick="toggleContent('row6')">Show</span>
             </td>
         </tr>
-        <tr id="row5-content" class="toggle-content">
+        <tr id="row4-content" class="toggle-content">
+            <td>Row 2, Column 1</td>
+            <td>Row 2, Column 2</td>
+            <td>Row 2, Column 3</td>
+        </tr>
+        <tr>
+            <td>
+                <span id="row7-button" class="toggle-button" onclick="toggleContent('row7')">Show</span>
+            </td>
+            <td>
+                <span id="row8-button" class="toggle-button" onclick="toggleContent('row8')">Show</span>
+            </td>
+            <td>
+                <span id="row9-button" class="toggle-button" onclick="toggleContent('row9')">Show</span>
+            </td>
+        </tr>
+        <tr id="row7-content" class="toggle-content">
             <td>Row 3, Column 1</td>
             <td>Row 3, Column 2</td>
+            <td>Row 3, Column 3</td>
         </tr>
-        <tr id="row6-content" class="toggle-content">
+        <tr>
+            <td>
+                <span id="row10-button" class="toggle-button" onclick="toggleContent('row10')">Show</span>
+            </td>
+            <td>
+                <span id="row11-button" class="toggle-button" onclick="toggleContent('row11')">Show</span>
+            </td>
+            <td>
+                <span id="row12-button" class="toggle-button" onclick="toggleContent('row12')">Show</span>
+            </td>
+        </tr>
+        <tr id="row10-content" class="toggle-content">
             <td>Row 4, Column 1</td>
             <td>Row 4, Column 2</td>
-        </tr>
-        <tr id="row6-content" class="toggle-content">
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
-        </tr>
-        <tr id="row6-content" class="toggle-content">
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
-        </tr>
-        <tr id="row6-content" class="toggle-content">
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
-        </tr>
-        <tr id="row6-content" class="toggle-content">
-            <td>Row 4, Column 1</td>
-            <td>Row 4, Column 2</td>
+            <td>Row 4, Column 3</td>
         </tr>
     </table>
 </body>
