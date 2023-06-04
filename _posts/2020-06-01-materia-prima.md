@@ -12,7 +12,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
 <head>
     <title>Centered Table Example</title>
     <style>
-        table {
+       table {
             border-collapse: collapse;
             margin: 0 auto;
         }
@@ -21,19 +21,6 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
             border: 1px solid black;
             text-align: center;
             padding: 10px;
-        }
-
-        .cell-color-1 {
-            background-color: #DAF7A6 ;
-        }
-
-        .cell-color-2 {
-            background-color: #ccffcc;
-        }
-
-        .cell-color-3 {
-            background-color: #DAF7A6 ;
-        }
     </style>
 </head>
 <body>
