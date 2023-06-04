@@ -122,6 +122,6 @@ El mantenimiento de la maquinaria de la empresa no brindó mayor información ad
 
 
 <div style="text-align:center">
-  <img src="/proyecto-final/assets/img/mantenimiento.jpg" alt="Image" style="width:300px;height:300px;">
+  <img src="/Trabajo-final/assets/img/mantenimiento.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
 
