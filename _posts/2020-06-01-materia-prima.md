@@ -7,7 +7,32 @@ subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio pa
 
 ## Materia prima y costos unitarios
 
-Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g
+Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g.
+
+<head>
+    <title>Ingredients List Example</title>
+    <style>
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><img src="/Trabajo-final/assets/harina.png" alt="Harina de trigo"></li>
+        <li><img src="/Trabajo-final/assets/queso.jpg" alt="Queso"></li>
+        <li><img src="/Trabajo-final/assets/azucar.jpg" alt="Azucar"></li>
+        <li><img src="assets/mantequilla.jpg" alt="Mantequilla"></li>
+        <li><img src="/Trabajo-final/assets/sal.jpeg" alt="Sal"></li>
+        <li><img src="/Trabajo-final/assets/agua.jpg" alt="Agua"></li>
+    </ul>
+</body>
 
 <head>
     <title>Centered Table Example</title>
@@ -70,14 +95,15 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
 
 El producto se vende a 1800 COP cuando se vende por unidad y a 1200 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
 
-## Costos de producción por dia
+## Costos y ganancias de producción por dia
 &nbsp;
+Realizando los costos de producción teniendo los costos unitarios de la materia y teniendo en cuenta las proporciones y volumenes de producción se pueden obtener las ganancias brutas descontando los gastos de producción.
 <body>
     <table>
         <tr>
             <th style="text-align: center">Dia de producción</th>
             <th style="text-align: center"> Costo total</th>
-            <th style="text-align: center"> Ingresos por &nbsp; ventas</th>
+            <th style="text-align: center"> Ingresos por ventas</th>
             <th style="text-align: center"> Ganancias brutas</th>
         </tr>
         <tr>
