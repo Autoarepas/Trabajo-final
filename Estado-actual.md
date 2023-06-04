@@ -8,7 +8,9 @@ subtitle: Que datos tenemos de la producción actual
 <style>
   </style>
   
-Dialogando con el personal y con los administradores de la empresa tenemos los siguientes datos de producción:
+##Datos de producción  
+  
+Estos datos fueron dados por los entrevistados de la empresa
  
 <head>
   <title>Table Example</title>
@@ -42,7 +44,9 @@ Dialogando con el personal y con los administradores de la empresa tenemos los s
   </div>
 </body>
 
-En el aspecto de maquinaria se encuentra un horno asador de arepas con una capacidad de 5 arepas cada 3 minutos aproximadamente (sin contar tiempos de ajuste iniciales como lo es el precalentamiento). Para la etapa de la preparación de la masa, el moldeado de las arepas y el empaquetamiento se realiza con herramentales manuales, por lo que el tiempo estimado es muy variado. Dialogando con el personal se tienen los siguientes tiempos de producción por unidad:
+## Maquinaria
+
+La dotación de maquinaria de la empresa es unicamente un horno asador de arepas con una capacidad de 6 arepas cada 3 minutos aproximadamente (sin contar tiempos de ajuste iniciales como lo es el precalentamiento). Para la etapa de la preparación de la masa, el moldeado de las arepas y el empaquetamiento se realiza con herramentales manuales, por lo que el tiempo estimado es muy variado. Dialogando con el personal se tienen los siguientes tiempos de producción por unidad:
 
 <head>
   <title>Colored Table Example</title>
