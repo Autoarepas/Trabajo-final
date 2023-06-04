@@ -71,13 +71,13 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
 El producto se vende a 1800 COP cuando se vende por unidad y a 1200 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
 
 ## Costos de producción por dia
-&#160;
+&nbsp;
 <body>
     <table>
         <tr>
             <th style="text-align: center">Dia de producción</th>
             <th style="text-align: center"> Costo total</th>
-            <th style="text-align: center"> Ingresos por &#160; ventas</th>
+            <th style="text-align: center"> Ingresos por &nbsp; ventas</th>
             <th style="text-align: center"> Ganancias brutas</th>
         </tr>
         <tr>
