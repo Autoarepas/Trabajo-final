@@ -10,7 +10,7 @@ subtitle: Que datos tenemos de la producción actual
   
 ## Datos de producción  
   
-Estos datos fueron dados por los entrevistados de la empresa
+Estos datos fueron dados por los entrevistados de la empresa con valores aproximados según los empleados que se encargan directamente de esta parte de la producción
  
 <head>
   <title>Table Example</title>
@@ -25,20 +25,20 @@ Estos datos fueron dados por los entrevistados de la empresa
   <div class="table-container">
     <table border="1">
       <tr>
-        <th>Dia(s) de la semana</th>
-        <th>Producción</th>
+        <th style="text-align: center">Dia(s) de la semana</th>
+        <th style="text-align: center">Producción</th>
       </tr>
       <tr>
-        <td> Lunes-Jueves</td>
-        <td>500</td>
+        <td style="text-align: center"> Lunes-Jueves</td>
+        <td style="text-align: center">500</td>
       </tr>
       <tr>
-        <td>Viernes</td>
-        <td>800</td>
+        <td style="text-align: center">Viernes</td>
+        <td style="text-align: center">800</td>
       </tr>
       <tr>
-        <td>Sábado-Domingo</td>
-        <td>1000</td>
+        <td style="text-align: center">Sábado-Domingo</td>
+        <td style="text-align: center">1000</td>
      </tr>
     </table>
   </div>
@@ -68,42 +68,42 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
   <div class="table-container">
     <table border="1">
       <tr>
-        <th>Proceso</th>
-        <th>Tiempo</th>
-        <th>Unidades</th> 
+        <th style="text-align: center">Proceso</th>
+        <th style="text-align: center">Tiempo</th>
+        <th style="text-align: center">Unidades</th> 
         <th># de arepas</th>   
       </tr>
       <tr>
-        <td>Preparación de la masa</td>
-        <td>0.75 horas</td>
-        <td>1 preparación</td>
-        <td>500</td>
+        <td style="text-align: center">Preparación de la masa</td>
+        <td style="text-align: center">0.75 horas</td>
+        <td style="text-align: center">1 preparación</td>
+        <td style="text-align: center">500</td>
       </tr>
       <tr>
-        <td>Moldeado del producto</td>
-        <td> 1 minuto </td>
-        <td> 3 unidades</td>
-        <td>3</td>  
+        <td style="text-align: center">Moldeado del producto</td>
+        <td style="text-align: center"> 1 minuto </td>
+        <td style="text-align: center"> 3 unidades</td>
+        <td style="text-align: center">3</td>  
       </tr>
       <tr>
-        <td>Cocinado en horno</td>
-        <td>2 minutos</td>
-        <td>6 unidades</td>
-        <td>6</td>  
+        <td style="text-align: center">Cocinado en horno</td>
+        <td style="text-align: center">2 minutos</td>
+        <td style="text-align: center">6 unidades</td>
+        <td style="text-align: center">6</td>  
       </tr>
       <tr>
         <td>empaquetado 
             (paquete 6 unidades)</td>
-        <td>1 minuto</td>
-        <td>6 unidades</td>
-        <td>6</td>  
+        <td style="text-align: center">1 minuto</td>
+        <td style="text-align: center">6 unidades</td>
+        <td style="text-align: center">6</td>  
       </tr>
        <tr>
         <td>empaquetado 
             (paquete 12 unidades)</td>
-        <td> 3 minutos</td>
-        <td> 12 unidades</td>
-        <td>12</td>   
+        <td style="text-align: center"> 3 minutos</td>
+        <td style="text-align: center"> 12 unidades</td>
+        <td style="text-align: center">12</td>   
       </tr>
     </table>
   </div>
