@@ -7,7 +7,7 @@ subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio pa
 
 ## Materia prima y costos unitarios
 
-Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país 
+Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g
 
 <head>
     <title>Centered Table Example</title>
@@ -34,7 +34,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         <tr>
             <td style="text-align: center">Harina</td>
             <td style="text-align: center">36 g</td>
-            <td style="text-align: center">36.4 COP/g</td>
+            <td style="text-align: center">3.64 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Queso</td>
@@ -61,6 +61,11 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
             <td style="text-align: center">8 mL</td>
             <td style="text-align: center">4.88 COP/L</td>
         </tr>
+        <tr>
+            <td style="text-align: center">Total</td>
+            <td style="text-align: center">100 g</td>
+            <td style="text-align: center">996.16 COP/unidad</td>
+        </tr>
     </table>
 </body>
 
@@ -74,20 +79,22 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         </tr>
         <tr>
             <td style="text-align: center">Lunes-Jueves</td>
-            <td style="text-align: center">Row 1, Cell 2</td>
+            <td style="text-align: center">498080 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Viernes</td>
-            <td style="text-align: center">Row 2, Cell 2</td>
+            <td style="text-align: center">796928 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Sábado-Domingo</td>
-            <td style="text-align: center">Row 3, Cell 2</td>
+            <td style="text-align: center">996180 COP</td>
         </tr>
     </table>
 </body>
 
-This is the content of subtitle 1.
+
+
+
 
 
 
