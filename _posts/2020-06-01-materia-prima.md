@@ -32,7 +32,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
 </head>
 <body>
     <ul class="image-list">
-        <li><img src="/Trabajo-final/assets/harina.png" alt="Image 1" style="width:100px;height:100px;" <p>Title 1</p>></li>
+        <li><img src="/Trabajo-final/assets/harina.png" alt="Image 1" <p>Title 1</p> style="width:100px;height:100px;" ></li>
         <li><img src="/Trabajo-final/assets/queso.jpg" alt="Image 2" style="width:100px;height:100px;" <p>Title 1</p>></li>
         <li><img src="/Trabajo-final/assets/azucar.jpg" alt="Image 3" style="width:100px;height:100px;" <p>Title 1</p>></li>
         <li><img src="/Trabajo-final/assets/mantequilla.jpg" alt="Image 4" style="width:100px;height:100px;" <p>Title 1</p>></li>
