@@ -1,5 +1,6 @@
 ---
 layout: post
+thumbnail-img: /assets/img/thumb.png
 title: Materia prima
 subtitle: Ingredientes para un buen producto producto
 ---
