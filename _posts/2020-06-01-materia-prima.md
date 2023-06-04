@@ -33,7 +33,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         <tr>
             <td style="text-align: center">Harina</td>
             <td style="text-align: center">36 g</td>
-            <td style="text-align: center">3.64 COP/g</td>
+            <td style="text-align: center">3,64 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Queso</td>
@@ -43,50 +43,60 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         <tr>
             <td style="text-align: center">Azucar</td>
             <td style="text-align: center">2 g</td>
-            <td style="text-align: center">4.5 COP/g</td>
+            <td style="text-align: center">4,5 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Sal</td>
             <td style="text-align: center">1 g</td>
-            <td style="text-align: center">2.33 COP/g</td>
+            <td style="text-align: center">2,33 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Mantequilla</td>
             <td style="text-align: center">35 g</td>
-            <td style="text-align: center">15.65 COP/g</td>
+            <td style="text-align: center">15,65 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Agua</td>
             <td style="text-align: center">8 mL</td>
-            <td style="text-align: center">4.88 COP/L</td>
+            <td style="text-align: center">4,88 COP/L</td>
         </tr>
         <tr>
             <td style="text-align: center">Total</td>
             <td style="text-align: center">100 g</td>
-            <td style="text-align: center">996.16 COP/unidad</td>
+            <td style="text-align: center">996,16 COP/unidad</td>
         </tr>
     </table>
 </body>
 
-## Costos de producción por dia
+El producto se vende a 1800 COP cuando se vende por unidad y a 1200 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
 
+## Costos de producción por dia
+&#160;
 <body>
     <table>
         <tr>
             <th style="text-align: center">Dia de producción</th>
             <th style="text-align: center"> Costo total</th>
+            <th style="text-align: center"> Ingresos por &#160; ventas</th>
+            <th style="text-align: center"> Ganancias brutas</th>
         </tr>
         <tr>
             <td style="text-align: center">Lunes-Jueves</td>
-            <td style="text-align: center">498080 COP</td>
+            <td style="text-align: center">498.080 COP</td>
+            <td style="text-align: center"> 750.000 COP</td>
+            <td style="text-align: center"> 251.920 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Viernes</td>
-            <td style="text-align: center">796928 COP</td>
+            <td style="text-align: center">796.928 COP</td>
+            <td style="text-align: center"> 1'200.000 COP</td>
+            <td style="text-align: center"> 403.072 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Sábado-Domingo</td>
-            <td style="text-align: center">996180 COP</td>
+            <td style="text-align: center"> 996.160 COP</td>
+            <td style="text-align: center"> 1'500.000 COP</td>
+            <td style="text-align: center"> 503.840 COP</td>
         </tr>
     </table>
 </body>
