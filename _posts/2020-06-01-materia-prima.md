@@ -18,7 +18,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         }
 
         .image-list li {
-            flex-basis: calc(33.33% - 10px);
+            flex-basis: calc(50% - 10px);
             margin: 5px;
             list-style-type: none;
             text-align: center;
@@ -32,23 +32,23 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
 </head>
 <body>
     <ul class="image-list">
-        <li><img src="/Trabajo-final/assets/harina.png" alt="Image 1" style="width:100px;height:100px;" >
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/harina.png" alt="Image 1" style="width:200px;height:200px;" >
+            <p>Harina de trigp</p>
         </li>
-        <li><img src="/Trabajo-final/assets/queso.jpg" alt="Image 2" style="width:100px;height:100px;">
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/queso.jpg" alt="Image 2" style="width:200px;height:200px;">
+            <p>Queso</p>
         </li>
-        <li><img src="/Trabajo-final/assets/azucar.jpg" alt="Image 3" style="width:100px;height:100px;">
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/azucar.jpg" alt="Image 3" style="width:200px;height:200px;">
+            <p>Azucar</p>
         </li>
-        <li><img src="/Trabajo-final/assets/mantequilla.jpg" alt="Image 4" style="width:100px;height:100px;" >
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/mantequilla.jpg" alt="Image 4" style="width:200px;height:200px;" >
+            <p>Mantequilla</p>
         </li>
-        <li><img src="/Trabajo-final/assets/sal.jpeg" alt="Image 5" style="width:100px;height:100px;">
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/sal.jpeg" alt="Image 5" style="width:200px;height:200px;">
+            <p>Sal</p>
         </li>
-        <li><img src="/Trabajo-final/assets/agua.jpg" alt="Image 6" style="width:100px;height:100px;">
-            <p>Title 1</p>
+        <li><img src="/Trabajo-final/assets/agua.jpg" alt="Image 6" style="width:200px;height:200px;">
+            <p>Agua</p>
         </li>
     </ul>
 </body>
