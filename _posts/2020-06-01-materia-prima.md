@@ -22,6 +22,18 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
             text-align: center;
             padding: 10px;
         }
+
+        .cell-color-1 {
+            background-color: #ffcccc;
+        }
+
+        .cell-color-2 {
+            background-color: #ccffcc;
+        }
+
+        .cell-color-3 {
+            background-color: #ccccff;
+        }
     </style>
 </head>
 <body>
