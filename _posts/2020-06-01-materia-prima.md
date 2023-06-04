@@ -2,7 +2,7 @@
 layout: post
 thumbnail-img: /assets/img/thumb.png
 title: Materia prima
-subtitle: Ingredientes para un buen producto producto
+subtitle: Para crear un producto de calidad sobresaliente y altamente satisfactorio, es imprescindible contar con una cuidadosa selección y combinación de ingredientes que permitan alcanzar un equilibrio perfecto en cuanto a sabor y textura, garantizando así una experiencia excepcional para el consumidor.
 ---
 
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
