@@ -7,7 +7,7 @@ subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio pa
 
 ## Materia prima y costos unitarios
 
-Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g.
+Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g usando los siguientes ingredientes:
 <head>
     <title>Aligned Interspersed Images Example</title>
     <style>
@@ -52,7 +52,6 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         </li>
     </ul>
 </body>
-</html>
 
 El producto se vende a 1800 COP cuando se vende por unidad y a 1200 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
 
