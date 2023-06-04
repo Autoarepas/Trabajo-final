@@ -5,6 +5,10 @@ title: Materia prima
 subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio para el consumidor, es imprescindible contar con cierta selección de ingredientes.
 ---
 
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/arepas1.jpg" alt="Image" style="width:300px;height:450px;">
+</div>
+
 ## Materia prima y costos unitarios
 
 Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifico por cuestiones proteger el producto se realizó un aproximado con diferentes recetas preparadas a lo largo del país para una arepa de 100g usando los siguientes ingredientes:
