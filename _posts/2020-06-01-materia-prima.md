@@ -2,7 +2,7 @@
 layout: post
 thumbnail-img: /assets/img/thumb.png
 title: Materia prima
-subtitle: Para crear un producto de calidad sobresaliente y altamente satisfactorio para el consumidor, es imprescindible contar con una cuidadosa selección y combinación de ingredientes.
+subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio para el consumidor, es imprescindible contar con cierta selección de ingredientes.
 ---
 
 Para conocer los requerimientos para la producción se necesitan los siguientes ingredientes:
