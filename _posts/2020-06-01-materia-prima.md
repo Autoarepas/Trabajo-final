@@ -24,7 +24,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         }
 
         .cell-color-1 {
-            background-color: #ffcccc;
+            background-color: #DAF7A6 ;
         }
 
         .cell-color-2 {
@@ -32,7 +32,7 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         }
 
         .cell-color-3 {
-            background-color: #ccccff;
+            background-color: #DAF7A6 ;
         }
     </style>
 </head>
