@@ -9,13 +9,13 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 
 <ul>
 <li> Dosificación</li>
-Máquina: Dosificador por peso automático lineal de cuatro cabezales 5g - 1000 gr
-Empresa: JORESTECH PARALLAX.
+  <b> Máquina </b>: Dosificador por peso automático lineal de cuatro cabezales 5g - 1000 gr
+  <b> Empresa </b> : JORESTECH PARALLAX.
 
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
 </div>
-  <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no era de la manera más eficiente y no se tenia un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades 
+  <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no es de la manera más eficiente y no se tiene un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades. 
   
 <li> Mezcla</li>
 Máquina: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
@@ -23,24 +23,30 @@ Empresa: PLAMIXER .
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/mezcladora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
- Justificación 
+<b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de mezclado de la masa de la arepa se realiza de manera manual e ineficiente, ya que para esta se requiere mucho tiempo y se presentan situaciones donde la masa no tiene las propiedades requeridas
+  
 <li> Laminación</li>
 Máquina: LAMINADORA DE MASA C:430X1700MM
 Empresa: Pallomaro. 
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
+  
+<b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
+  
 <li> Corte</li>
 Máquina: Laminadora Industrial para Arepas rellenas 40 cm
 Empresa: E MAQ Industrial.
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
 </div>
+<b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
+  
 <li> Horno</li>
 Máquina: Horno Tunel 1 nivel 40 trabajables
 Empresa:  E MAQ Industrial.
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
 </div> 
-
-  </ul>  
+<b> Justificación </b>: Se evidenció en la revisión del estado actual de la empresa, qué en el proceso de cocción de la arepa es mediante una parrilla con capacidad limitada, lo que quiere decir que este proceso retrasa la producción de las arepas. Con el uso de un horno tipo tunel se puede una producción continúa y no dependiente del tiempo de cocción dado por el operario, asegurando calidad en el producto. 
+ </ul>  
