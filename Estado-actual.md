@@ -118,7 +118,15 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
 Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
 
 &#160;
-El mantenimiento de la maquinaria de la empresa no brindó mayor información ademas de mostrar una politica de mantenimiento exclusivamente de tipo correctivo y de limpieza, por lo que los tiempos de mantenimiento son aleatorios y no se tienen resgistro de ellos.
+
+En la parte del inventario de la materia prima del producto (ingredientes) muchos de los ingredientes se agregan al producto sin la previa medición de estos, por lo que muchas veces pueden sobrar o faltar ingredientes, por lo que se pierden tiempos y materia prima. Se estima un aproximado de un 20% de materia prima extra. 
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/materiaprima.jpg" alt="Image" style="width:300px;height:300px;">
+</div>
+
+&#160;
+El mantenimiento de la maquinaria de la empresa no brindó mayor información ademas de mostrar una politica de mantenimiento exclusivamente de tipo correctivo y de limpieza, por lo que los tiempos de mantenimiento son aleatorios y no se tienen resgistro de estos.
 
 
 <div style="text-align:center">
