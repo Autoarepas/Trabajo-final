@@ -104,8 +104,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
         </div>
         <div class="text">
-            Fabian Esteban Urrea Rojas
-            furrea@unal.edu.co
+            <p>
+                Fabian Esteban Urrea Rojas</p>
+            <p>
+                furrea@unal.edu.co</p>
         </div>
     </div>
     
