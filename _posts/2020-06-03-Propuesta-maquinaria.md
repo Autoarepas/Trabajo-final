@@ -12,3 +12,8 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 Máquina: Dosificador por peso automático lineal de cuatro cabezales 5g - 1000 gr
 Empresa: JORESTECH PARALLAX.
 </ul>  
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
+</div>
+
