@@ -133,14 +133,14 @@ Realizando los costos de producción teniendo los costos unitarios de la materia
         </tr>
         <tr>
             <td style="text-align: center">Lunes-Jueves</td>
-            <td style="text-align: center">498.080 COP</td>
-            <td style="text-align: center"> 750.000 COP</td>
-            <td style="text-align: center"> 251.920 COP</td>
+            <td style="text-align: center">597.960 COP</td>
+            <td style="text-align: center">825.000 COP</td>
+            <td style="text-align: center"> 227.940 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Viernes</td>
-            <td style="text-align: center">796.928 COP</td>
-            <td style="text-align: center"> 1'200.000 COP</td>
+            <td style="text-align: center">956.736 COP</td>
+            <td style="text-align: center"> 1'320.000 COP</td>
             <td style="text-align: center"> 403.072 COP</td>
         </tr>
         <tr>
