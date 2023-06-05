@@ -105,6 +105,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
         </div>
         <div class="text">
             Fabian Esteban Urrea Rojas
+            furrea@unal.edu.co
         </div>
     </div>
     
