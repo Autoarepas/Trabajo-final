@@ -57,7 +57,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 1">
         </div>
         <div class="text">
-            Samuel Jose Banquett Arroyo
+            <p>
+                Samuel Jose Banquett Arroyo</p>
+            <p>
+                sbanquett@unal.edu.co</p>
         </div>
     </div>
     
@@ -66,7 +69,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/paula.jpg" alt="Photo 2">
         </div>
         <div class="text">
-            Maria Paula Caro Duarte
+            <p> 
+                Maria Paula Caro Duarte</p>
+            <p>
+                mcarod@unal.edu.co</p>
         </div>
     </div>
     
@@ -75,7 +81,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
         </div>
         <div class="text">
-          Carlos Daniel Raigoso Triana  
+          <p>
+              Carlos Daniel Raigoso Triana</p>
+          <p>
+              caigosot@unal.edu.co</p>
         </div>
     </div>
     
@@ -84,7 +93,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
         </div>
         <div class="text">
-            Juan Pablo Santana
+            <p>
+                Juan Pablo Santana Mejia</p>
+            <p>
+                jsantanam@unal.edu.co</p>
         </div>
     </div>
     
@@ -94,7 +106,10 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
             <img src="/Trabajo-final/assets/img/YO.jpg" alt="Photo 2">
         </div>
         <div class="text">
-            Luis Felipe Sánchez Cardozo
+            <p>
+                Luis Felipe Sánchez Cardozo</p>
+            <p> 
+                lsanchezca@unal.edu.co</p>
         </div>
     </div>
     
