@@ -8,7 +8,7 @@ subtitle: Propuesta para la compra de maquinas para la automatización de la pro
 Después de realizar una investigación y un análisis sobre las máquinas que serían propicias para ser implementadas en el negocio, se obtuvieron como resultado las siguientes máquinas por proceso.&#160;
 
 <ul>
-<li> Dosificación</li>
+<li> <b><i>Dosificación</i></b> </li>
   <b> Máquina </b>: Dosificador por peso automático lineal de cuatro cabezales 5g - 1000 gr
   <b> Empresa </b> : JORESTECH PARALLAX.
 
