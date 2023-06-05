@@ -11,24 +11,34 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <li> Dosificación</li>
 Máquina: Dosificador por peso automático lineal de cuatro cabezales 5g - 1000 gr
 Empresa: JORESTECH PARALLAX.
-</ul>  
 
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
 </div>
-
-<div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
-</div>
-
-<div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
-</div>
-
-<div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
-</div>
-
+  
+<li> Mezcla</li>
+Máquina: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
+Empresa: PLAMIXER .
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/mezcladora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
+<li> Laminación</li>
+Máquina: LAMINADORA DE MASA C:430X1700MM
+Empresa: Pallomaro. 
+ <div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
+</div>
+<li> Corte</li>
+Máquina: Laminadora Industrial para Arepas rellenas 40 cm
+Empresa: E MAQ Industrial.
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
+</div>
+<li> Horno</li>
+Máquina: Horno Tunel 1 nivel 40 trabajables
+Empresa:  E MAQ Industrial.
+ <div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
+</div> 
+
+  </ul>  
