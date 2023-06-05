@@ -116,7 +116,9 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
     </table>
 </body>
 
-Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b> 1195.32 COP <\b>. El producto se vende a 1800 COP cuando se vende por unidad y a 1500 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
+Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b>1195.32 COP.<\b> 
+
+  El producto se vende a 1800 COP cuando se vende por unidad y a 1500 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
 
 ## Costos y ganancias de producción por dia
 &nbsp;
