@@ -15,6 +15,7 @@ Empresa: JORESTECH PARALLAX.
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
 </div>
+  <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no era de la manera más eficiente y no se tenia un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades 
   
 <li> Mezcla</li>
 Máquina: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
@@ -22,6 +23,7 @@ Empresa: PLAMIXER .
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/mezcladora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
+ Justificación 
 <li> Laminación</li>
 Máquina: LAMINADORA DE MASA C:430X1700MM
 Empresa: Pallomaro. 
