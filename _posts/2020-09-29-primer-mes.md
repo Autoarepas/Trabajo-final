@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Realización del primer MES
-thumbnail-img: /assets/img/odoo.jpg
+thumbnail-img: /assets/img/odoo.png
 subtitle: Análisis del comportamiento de la empresa con los datos actuales
 ---
 
