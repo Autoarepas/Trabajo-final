@@ -17,7 +17,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 </div>
   <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no es de la manera más eficiente y no se tiene un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades. 
   
-<li> Mezcla</li>
+<li> <b><i>Mezclado</i></b></li>
 Máquina: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
 Empresa: PLAMIXER .
 <div style="text-align:center">
@@ -25,7 +25,7 @@ Empresa: PLAMIXER .
 </div>
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de mezclado de la masa de la arepa se realiza de manera manual e ineficiente, ya que para esta se requiere mucho tiempo y se presentan situaciones donde la masa no tiene las propiedades requeridas
   
-<li> Laminación</li>
+<li> <b><i>Laminadora</i></b></li>
 Máquina: LAMINADORA DE MASA C:430X1700MM
 Empresa: Pallomaro. 
  <div style="text-align:center">
@@ -34,7 +34,7 @@ Empresa: Pallomaro.
   
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
-<li> Corte</li>
+<li> <b><i>Corte</i></b></li>
 Máquina: Laminadora Industrial para Arepas rellenas 40 cm
 Empresa: E MAQ Industrial.
 <div style="text-align:center">
@@ -42,7 +42,7 @@ Empresa: E MAQ Industrial.
 </div>
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
-<li> Horno</li>
+<li> <b><i>Horno</i></b></li>
 Máquina: Horno Tunel 1 nivel 40 trabajables
 Empresa:  E MAQ Industrial.
  <div style="text-align:center">
