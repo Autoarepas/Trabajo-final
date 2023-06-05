@@ -26,7 +26,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de mezclado de la masa de la arepa se realiza de manera manual e ineficiente, ya que para esta se requiere mucho tiempo y se presentan situaciones donde la masa no tiene las propiedades requeridas
   
 <li> <b><i>Laminadora</i></b></li>
-  <b> Máquina </b>: LAMINADORA DE MASA C:430X1700MM
+  <b> Máquina </b>: LAMINADORA DE MASA C:430X1700MM<br>
   <b> Empresa </b> : Pallomaro. 
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
@@ -35,7 +35,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <li> <b><i>Corte</i></b></li>
-  <b> Máquina </b>: Laminadora Industrial para Arepas rellenas 40 cm
+  <b> Máquina </b>: Laminadora Industrial para Arepas rellenas 40 cm<br>
   <b> Empresa </b> : E MAQ Industrial.
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
@@ -43,7 +43,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <li> <b><i>Horno</i></b></li>
-  <b> Máquina </b>: Horno Tunel 1 nivel 40 trabajables
+  <b> Máquina </b>: Horno Tunel 1 nivel 40 trabajables<br>
   <b> Empresa </b> :  E MAQ Industrial.
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
