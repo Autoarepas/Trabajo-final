@@ -6,7 +6,7 @@ subtitle: Para un producto de calidad sobresaliente y altamente satisfactorio pa
 ---
 
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/arepas1.jpg" alt="Image" style="width:300px;height:300px;">
+  <img src="/Trabajo-final/assets/img/arepas2.JPG" alt="Image" style="width:300px;height:300px;">
 </div>
 
 ## Materia prima y costos unitarios
