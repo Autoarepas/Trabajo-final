@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Propuesta de la maquinaria 
+thumbnail-img: /assets/img/horno_maquina1.jpg
 subtitle: Propuesta para la compra de maquinas para la automatización de la producción
 ---
 
