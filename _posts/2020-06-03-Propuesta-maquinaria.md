@@ -17,3 +17,18 @@ Empresa: JORESTECH PARALLAX.
   <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
 </div>
 
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
+</div>
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
+</div>
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
+</div>
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/mezcladora.jpg" alt="Image" style="width:300px;height:300px;">
+</div>
