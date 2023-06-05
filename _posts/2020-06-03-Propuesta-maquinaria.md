@@ -18,16 +18,16 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
   <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no es de la manera más eficiente y no se tiene un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades. 
   
 <li> <b><i>Mezclado</i></b></li>
-Máquina: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
-Empresa: PLAMIXER .
+  <b> Máquina </b>: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L
+  <b> Empresa </b>  PLAMIXER .
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/mezcladora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de mezclado de la masa de la arepa se realiza de manera manual e ineficiente, ya que para esta se requiere mucho tiempo y se presentan situaciones donde la masa no tiene las propiedades requeridas
   
 <li> <b><i>Laminadora</i></b></li>
-Máquina: LAMINADORA DE MASA C:430X1700MM
-Empresa: Pallomaro. 
+  <b> Máquina </b>: LAMINADORA DE MASA C:430X1700MM
+  <b> Empresa </b> : Pallomaro. 
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/laminadora.jpg" alt="Image" style="width:300px;height:300px;">
 </div>
@@ -35,16 +35,16 @@ Empresa: Pallomaro.
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <li> <b><i>Corte</i></b></li>
-Máquina: Laminadora Industrial para Arepas rellenas 40 cm
-Empresa: E MAQ Industrial.
+  <b> Máquina </b>: Laminadora Industrial para Arepas rellenas 40 cm
+  <b> Empresa </b> : E MAQ Industrial.
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/corte_maquina.png" alt="Image" style="width:300px;height:300px;">
 </div>
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <li> <b><i>Horno</i></b></li>
-Máquina: Horno Tunel 1 nivel 40 trabajables
-Empresa:  E MAQ Industrial.
+  <b> Máquina </b>: Horno Tunel 1 nivel 40 trabajables
+  <b> Empresa </b> :  E MAQ Industrial.
  <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/horno_maquina.png" alt="Image" style="width:300px;height:300px;">
 </div> 
