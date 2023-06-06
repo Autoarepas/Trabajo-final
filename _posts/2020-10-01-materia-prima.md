@@ -100,25 +100,23 @@ Debido a que la empresa no nos puede dar los ingredientes ni el proceso especifi
         </tr>
         <tr>
             <td style="text-align: center">Mantequilla</td>
-            <td style="text-align: center">35 g</td>
-            <td style="text-align: center">15.65 COP/g</td>
+            <td style="text-align: center">8 g</td>
+            <td style="text-align: center">14.4 COP/g</td>
         </tr>
         <tr>
             <td style="text-align: center">Agua</td>
-            <td style="text-align: center">8 mL</td>
-            <td style="text-align: center">4.88 COP/L</td>
+            <td style="text-align: center">35 mL</td>
+            <td style="text-align: center">1.42 COP/mL</td>
         </tr>
         <tr>
             <td style="text-align: center">Total</td>
             <td style="text-align: center">100 g</td>
-            <td style="text-align: center">996.16 COP/unidad</td>
+            <td style="text-align: center">613.91 COP/unidad</td>
         </tr>
     </table>
 </body>
 
-Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b>1195.32 COP.<\b> 
-
-  El producto se vende a 1800 COP cuando se vende por unidad y a 1500 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad.
+  El producto se vende a 1800 COP cuando se vende por unidad y a 1200 cuando se vende al por mayor. Por lo que se puede observar una ganancia por unidad tanto al por mayor como por unidad. Según los integrantes de la empresa se vende aproximadamente un 50% de ventas al por mayor y 50% por unidad. Es decir, la venta de la arepa es de un aproximado de <b> 1500 COP <\b>
 
 ## Costos y ganancias de producción por dia
 &nbsp;
@@ -133,24 +131,26 @@ Realizando los costos de producción teniendo los costos unitarios de la materia
         </tr>
         <tr>
             <td style="text-align: center">Lunes-Jueves</td>
-            <td style="text-align: center">597.960 COP</td>
-            <td style="text-align: center">825.000 COP</td>
-            <td style="text-align: center"> 227.940 COP</td>
+            <td style="text-align: center">306.955 COP</td>
+            <td style="text-align: center">750.000 COP</td>
+            <td style="text-align: center"> 443.045 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Viernes</td>
-            <td style="text-align: center">956.736 COP</td>
-            <td style="text-align: center"> 1'320.000 COP</td>
-            <td style="text-align: center"> 403.072 COP</td>
+            <td style="text-align: center">491.128 COP</td>
+            <td style="text-align: center"> 1'200.000 COP</td>
+            <td style="text-align: center"> 708.872 COP</td>
         </tr>
         <tr>
             <td style="text-align: center">Sábado-Domingo</td>
-            <td style="text-align: center"> 996.160 COP</td>
+            <td style="text-align: center"> 613.910 COP</td>
             <td style="text-align: center"> 1'500.000 COP</td>
-            <td style="text-align: center"> 503.840 COP</td>
+            <td style="text-align: center"> 886.090 COP</td>
         </tr>
     </table>
 </body>
+
+Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b>736.69 COP.<\b>. Sin embargo se prefiere calcular los costos y ganancias brutas teniendo en cuenta el uso ideal de la materia prima. Estos datos son los que se colocarán en el MES para tener las ganancias mas aproximadas.
 
 
 
