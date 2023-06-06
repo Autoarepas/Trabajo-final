@@ -150,7 +150,7 @@ Realizando los costos de producción teniendo los costos unitarios de la materia
     </table>
 </body>
 
-Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b>736.69 COP.<\b>. Sin embargo se prefiere calcular los costos y ganancias brutas teniendo en cuenta el uso ideal de la materia prima. Estos datos son los que se colocarán en el MES para tener las ganancias mas aproximadas.
+Cabe recalcar que la materia prima y sus costos se le debe aplicar el 20% adicionnal por lo mencionado anteriormente de la perdida de materia prima, donde si se le aplica el 20% al costo de la materia prima se tiene que la unidad para ellos cuesta <b>736.69 COP<\b>. Sin embargo, se prefiere calcular los costos y ganancias brutas teniendo en cuenta el uso ideal de la materia prima. Estos datos son los que se colocarán en el MES para tener las ganancias mas aproximadas.
 
 
 
