@@ -48,10 +48,6 @@ Estos datos fueron dados por los entrevistados de la empresa con valores aproxim
 
 La dotación de maquinaria de la empresa es unicamente un horno asador de arepas con una capacidad de 6 arepas cada 3 minutos aproximadamente (sin contar tiempos de ajuste iniciales como lo es el precalentamiento). Para la etapa de la preparación de la masa, el moldeado de las arepas y el empaquetamiento se realiza con herramentales manuales, por lo que el tiempo estimado es muy variado. Dialogando con el personal se tienen los siguientes tiempos de producción por unidad:
 
-<div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:300px;height:350px;">
-</div>
-
 <head>
   <title>Colored Table Example</title>
   <style>
@@ -114,6 +110,11 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
 </body>
 
 &#160;
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:300px;height:350px;">
+</div>
+
 
 Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
 
