@@ -50,3 +50,101 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 </div> 
 <b> Justificación </b>: Se evidenció en la revisión del estado actual de la empresa, qué en el proceso de cocción de la arepa es mediante una parrilla con capacidad limitada, lo que quiere decir que este proceso retrasa la producción de las arepas. Con el uso de un horno tipo tunel se puede una producción continúa y no dependiente del tiempo de cocción dado por el operario, asegurando calidad en el producto. 
  </ul>  
+ 
+ <head>
+    <title>Centered Table Example</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Proceso</th>
+            <th>Máquina</th>
+            <th>Tiempo de <br> subida</th>
+            <th>Tiempo de <br> bajada</th>
+            <th>Paradas</th>
+            <th>MTBF</th>
+            <th>MTTR</th>
+            <th>Disp</th>
+            <th>Rendimiento</th>
+            <th>Calidad</th>
+            <th>OEE</th>
+        </tr>
+        <tr>
+            <td>Row 1, Cell 1</td>
+            <td>Row 1, Cell 2</td>
+            <td>Row 1, Cell 3</td>
+            <td>Row 1, Cell 4</td>
+            <td>Row 1, Cell 5</td>
+            <td>Row 1, Cell 6</td>
+            <td>Row 1, Cell 7</td>
+            <td>Row 1, Cell 8</td>
+            <td>Row 1, Cell 9</td>
+            <td>Row 1, Cell 10</td>
+            <td>Row 1, Cell 11</td>
+        </tr>
+        <tr>
+            <td>Row 2, Cell 1</td>
+            <td>Row 2, Cell 2</td>
+            <td>Row 2, Cell 3</td>
+            <td>Row 2, Cell 4</td>
+            <td>Row 2, Cell 5</td>
+            <td>Row 2, Cell 6</td>
+            <td>Row 2, Cell 7</td>
+            <td>Row 2, Cell 8</td>
+            <td>Row 2, Cell 9</td>
+            <td>Row 2, Cell 10</td>
+            <td>Row 2, Cell 11</td>
+        </tr>
+        <tr>
+            <td>Row 3, Cell 1</td>
+            <td>Row 3, Cell 2</td>
+            <td>Row 3, Cell 3</td>
+            <td>Row 3, Cell 4</td>
+            <td>Row 3, Cell 5</td>
+            <td>Row 3, Cell 6</td>
+            <td>Row 3, Cell 7</td>
+            <td>Row 3, Cell 8</td>
+            <td>Row 3, Cell 9</td>
+            <td>Row 3, Cell 10</td>
+            <td>Row 3, Cell 11</td>
+        </tr>
+        <tr>
+            <td>Row 4, Cell 1</td>
+            <td>Row 4, Cell 2</td>
+            <td>Row 4, Cell 3</td>
+            <td>Row 4, Cell 4</td>
+            <td>Row 4, Cell 5</td>
+            <td>Row 4, Cell 6</td>
+            <td>Row 4, Cell 7</td>
+            <td>Row 4, Cell 8</td>
+            <td>Row 4, Cell 9</td>
+            <td>Row 4, Cell 10</td>
+            <td>Row 4, Cell 11</td>
+        </tr>
+        <tr>
+            <td>Row 5, Cell 1</td>
+            <td>Row 5, Cell 2</td>
+            <td>Row 5, Cell 3</td>
+            <td>Row 5, Cell 4</td>
+            <td>Row 5, Cell 5</td>
+            <td>Row 5, Cell 6</td>
+            <td>Row 5, Cell 7</td>
+            <td>Row 5, Cell 8</td>
+            <td>Row 5, Cell 9</td>
+            <td>Row 5, Cell 10</td>
+            <td>Row 5, Cell 11</td>
+        </tr>
+    </table>
+</body>
