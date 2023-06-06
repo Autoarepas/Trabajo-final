@@ -76,23 +76,15 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
             <th>Paradas</th>
             <th>MTBF</th>
             <th>MTTR</th>
-            <th>Disp</th>
-            <th>Rendimiento</th>
-            <th>Calidad</th>
-            <th>OEE</th>
         </tr>
         <tr>
-            <td>Row 1, Cell 1</td>
-            <td>Row 1, Cell 2</td>
-            <td>Row 1, Cell 3</td>
-            <td>Row 1, Cell 4</td>
-            <td>Row 1, Cell 5</td>
-            <td>Row 1, Cell 6</td>
-            <td>Row 1, Cell 7</td>
-            <td>Row 1, Cell 8</td>
-            <td>Row 1, Cell 9</td>
-            <td>Row 1, Cell 10</td>
-            <td>Row 1, Cell 11</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
+            <td>Row 1</td>
         </tr>
         <tr>
             <td>Row 2, Cell 1</td>
@@ -102,10 +94,6 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
             <td>Row 2, Cell 5</td>
             <td>Row 2, Cell 6</td>
             <td>Row 2, Cell 7</td>
-            <td>Row 2, Cell 8</td>
-            <td>Row 2, Cell 9</td>
-            <td>Row 2, Cell 10</td>
-            <td>Row 2, Cell 11</td>
         </tr>
         <tr>
             <td>Row 3, Cell 1</td>
@@ -115,36 +103,24 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
             <td>Row 3, Cell 5</td>
             <td>Row 3, Cell 6</td>
             <td>Row 3, Cell 7</td>
-            <td>Row 3, Cell 8</td>
-            <td>Row 3, Cell 9</td>
-            <td>Row 3, Cell 10</td>
-            <td>Row 3, Cell 11</td>
         </tr>
         <tr>
-            <td>Row 4, Cell 1</td>
-            <td>Row 4, Cell 2</td>
-            <td>Row 4, Cell 3</td>
-            <td>Row 4, Cell 4</td>
-            <td>Row 4, Cell 5</td>
-            <td>Row 4, Cell 6</td>
-            <td>Row 4, Cell 7</td>
-            <td>Row 4, Cell 8</td>
-            <td>Row 4, Cell 9</td>
-            <td>Row 4, Cell 10</td>
-            <td>Row 4, Cell 11</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
+            <td>Row 4</td>
         </tr>
         <tr>
-            <td>Row 5, Cell 1</td>
-            <td>Row 5, Cell 2</td>
-            <td>Row 5, Cell 3</td>
-            <td>Row 5, Cell 4</td>
-            <td>Row 5, Cell 5</td>
-            <td>Row 5, Cell 6</td>
-            <td>Row 5, Cell 7</td>
-            <td>Row 5, Cell 8</td>
-            <td>Row 5, Cell 9</td>
-            <td>Row 5, Cell 10</td>
-            <td>Row 5, Cell 11</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
+            <td>Row 5</td>
         </tr>
     </table>
 </body>
