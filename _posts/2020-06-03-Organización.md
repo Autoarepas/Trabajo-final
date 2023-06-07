@@ -5,7 +5,7 @@ thumbnail-img: /assets/img/imagen_organizacion.jpg
 subtitle: Utilización del MES para la organización y optimización de la producción en la empresa
 ---
 
-Utilizando como referencia las maquinas mostradas y diversas referencias y herramientas se tienen los valores de operación de las maquinas.
+Utilizando como referencia las maquinas mostradas, diversas referencias y herramientas se tienen los valores de operación de las maquinas.
 
 <head>
     <title>Centered Table Example</title>
