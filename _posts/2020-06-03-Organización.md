@@ -54,11 +54,11 @@ Utilizando como referencia las maquinas mostradas, diversas referencias y herram
         <tr>
             <td>Laminación</td>
             <td>Laminadora de masa <br> C: 430x1700 mm</td>
-            <td></td>
-            <td>Row 3, Cell 4</td>
-            <td>Row 3, Cell 5</td>
-            <td>Row 3, Cell 6</td>
-            <td>Row 3, Cell 7</td>
+            <td>1400</td>
+            <td>35</td>
+            <td>1</td>
+            <td>1365</td>
+            <td>35</td>
         </tr>
         <tr>
             <td>Corte</td>
