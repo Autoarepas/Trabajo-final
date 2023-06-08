@@ -54,7 +54,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
 <body>
     <div class="photo-container">
         <div class="photo">
-            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 1">
+            <img src="/Trabajo-final/assets/img/benji.jpg" alt="Photo 1">
         </div>
         <div class="text">
             <p>
