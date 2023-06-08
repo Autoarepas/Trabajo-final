@@ -28,8 +28,8 @@ Utilizando como referencia las maquinas mostradas y luego de una extensa búsque
             <th>Proceso</th>
             <th>Máquina</th>
             <th>Produccón</th>
-            <th>Tiempo de <br> subida</th>
-            <th>Tiempo de <br> bajada</th>
+            <th>Up Time</th>
+            <th>Down Time</th>
             <th>Paradas</th>
             <th>MTBF</th>
             <th>MTTR</th>
