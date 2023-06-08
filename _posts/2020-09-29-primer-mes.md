@@ -1,6 +1,6 @@
 ---
 layout: post
-title: condiciones de la empresa en el MES
+title: Condiciones de la empresa en el MES
 thumbnail-img: /assets/img/odoo.png
 subtitle: Análisis del comportamiento de la empresa con los datos actuales
 ---
@@ -9,7 +9,10 @@ Utilizando los datos obtenidos por los empleados y lideres de la empresa, se pro
 
 ## Tiempos de producción y rendimiento de procesos
 
-Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas.
+Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas. Se presenta un esquema de la línea de producción
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/flowc.jpg" alt="Image" style="width:900px;height:450px;">
+</div>
 
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:900px;height:450px;">
