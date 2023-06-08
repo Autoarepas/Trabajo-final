@@ -19,8 +19,6 @@ Si está buscando una solución innovadora para mejorar la producción de sus de
 Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportunidad de colaborar con usted y ser parte de su éxito en el apasionante mundo de las arepas.
 
 ## Personas encargadas
-.................
-
 <head>
     <title>Circular Photos with Text Example</title>
     <style>
