@@ -11,7 +11,9 @@ Utilizando los datos obtenidos por los empleados y lideres de la empresa, se pro
 
 Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas
 
-<img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Eficiencia">
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:800px;height:400px;">
+</div>
 
 De esta barra de datos se obtienen los siguientes valores de rendimiento:
 
@@ -71,7 +73,9 @@ Como se puede observar el OEE va a tener valores similares al indice de rendimie
 
 ## Costos totales
 
-Los costos se obtienen a partir de la simulación ingresando los valores conocidos de la materia prima (obtenidos de <a href="https://autoarepas.github.io/Trabajo-final/2020-10-01-materia-prima/">Materia prima</a>)
+Los costos se obtienen a partir de la simulación ingresando los valores conocidos de la materia prima (mostrados en <a href="https://autoarepas.github.io/Trabajo-final/2020-10-01-materia-prima/">materia prima</a>), los costos del personal (2 personas con salario mínimo), entre otros costos fijos y variables se tienen los costos por dias de la semana:
+
+
 
 
 
