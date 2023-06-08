@@ -5,7 +5,7 @@ thumbnail-img: /assets/img/imagen_organizacion.jpg
 subtitle: Utilización del MES para la organización y optimización de la producción en la empresa
 ---
 
-Utilizando como referencia las maquinas mostradas, diversas referencias y herramientas se tienen los valores de operación de las maquinas.
+Utilizando como referencia las maquinas mostradas y luego de una extensa búsqueda de valores promedio para las mismas, se obtuvieron los siguientes resultados en minutos por semana de producción
 
 <head>
     <title>Centered Table Example</title>
@@ -27,6 +27,7 @@ Utilizando como referencia las maquinas mostradas, diversas referencias y herram
         <tr>
             <th>Proceso</th>
             <th>Máquina</th>
+            <th>Produccón</th>
             <th>Tiempo de <br> subida</th>
             <th>Tiempo de <br> bajada</th>
             <th>Paradas</th>
@@ -36,46 +37,51 @@ Utilizando como referencia las maquinas mostradas, diversas referencias y herram
         <tr>
             <td>Dosificación</td>
             <td>Dosificador por peso automático <br> lineal de 4 cabezales <br> 5g-1000g </td>
-            <td>315</td>
-            <td>7</td>
+            <td>25s/1000g C/U</td>
+            <td>2300</td>
+            <td>17</td>
             <td>1</td>
-            <td>308</td>
-            <td>7</td>   
+            <td>2283</td>
+            <td>17</td>   
         </tr>
         <tr>
             <td>Mezcla</td>
             <td>Mezcladora planetaria: <br> para el amasado de productos de <br> alta viscosidad y tixotropia</td>
-            <td>630</td>
+            <td>10 minutos</td>
+            <td>5800</td>
             <td>35</td>
             <td>1</td>
-            <td>595</td>
+            <td>5765</td>
             <td>35</td>
         </tr>
         <tr>
             <td>Laminación</td>
             <td>Laminadora de masa <br> C: 430x1700 mm</td>
-            <td>1400</td>
+            <td>20 Unidades/min</td>
+            <td>9000</td>
             <td>35</td>
             <td>1</td>
-            <td>1365</td>
+            <td>8965</td>
             <td>35</td>
         </tr>
         <tr>
             <td>Corte</td>
             <td>Laminadora industria para <br> arepas rellenas 40 c,</td>
-            <td>1470</td>
+            <td>4 Unidades/s</td>
+            <td>9000</td>
             <td>35</td>
             <td>1</td>
-            <td>1435</td>
+            <td>8965</td>
             <td>35</td>
         </tr>
         <tr>
             <td>Horneado</td>
             <td>Horno tunel 1 nivel 40 <br> trabajables </td>
-            <td>2380</td>
+            <td>500 Unidades/h</td>
+            <td>9000</td>
             <td>280</td>
             <td>1</td>
-            <td>2100</td>
+            <td>8720</td>
             <td>280</td>
         </tr>
     </table>
