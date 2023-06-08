@@ -152,3 +152,38 @@ Analizando los valores de rendimiento se puede observar que la maquina que está
     <li> <b><i>Empaquetado</i></b> </li>
     <img src="/Trabajo-final/assets/img/empaquetamiento.jpg" alt="Eficiencia">
 </ul>
+
+Dando como resultado los siguientes tiempos de producción
+
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Dia de producción</th>
+            <th style="text-align: center"> Preparación de Masa</th>
+            <th style="text-align: center"> Moldeado de Arepa</th>
+            <th style="text-align: center"> Horno</th>
+            <th style="text-align: center"> Empaquetado</th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Lunes-Jueves</td>
+            <td style="text-align: center">15:12 min</td>
+            <td style="text-align: center">25 min</td>
+            <td style="text-align: center"> 60 min </td>
+            <td style="text-align: center"> 47 min </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Viernes</td>
+            <td style="text-align: center">18:20 min</td>
+            <td style="text-align: center">40 min</td>
+            <td style="text-align: center">96 min </td>
+            <td style="text-align: center"> 72 min </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Sábado-Domingo</td>
+            <td style="text-align: center"> 20:25 min</td>
+            <td style="text-align: center">50 min</td>
+            <td style="text-align: center">120 min </td>
+            <td style="text-align: center">89 min </td>
+        </tr>
+    </table>
+</body>
