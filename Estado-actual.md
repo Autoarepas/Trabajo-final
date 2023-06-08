@@ -112,7 +112,7 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
 &#160;
 
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/horno.jpg" alt="Image" style="width:300px;height:350px;">
+  <img src="/Trabajo-final/assets/img/horno inicial.JPG" alt="Image" style="width:300px;height:350px;">
 </div>
 
 
