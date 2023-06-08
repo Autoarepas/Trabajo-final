@@ -88,11 +88,11 @@ Los costos se obtienen a partir de la simulación ingresando los valores conocid
       </tr>
       <tr>
         <td style="text-align: center">Viernes</td>
-        <td style="text-align: center">649.52</td>
+        <td style="text-align: center">649.52 COP</td>
       </tr>
       <tr>
         <td style="text-align: center">Sábado-Domingo</td>
-        <td style="text-align: center">648.12</td>
+        <td style="text-align: center">648.12 COP</td>
      </tr>
     </table>
   </div>
