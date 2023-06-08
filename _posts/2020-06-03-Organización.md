@@ -229,3 +229,40 @@ Una vez implementada la automatización a la empresa, se hace una comparación e
         </tr>
     </table>
 </body>
+
+
+<head>
+    <title>Centered Table Example</title>
+    <style>
+        table {
+            margin: 0 auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Dia(s) de la semana</th>
+            <th style="text-align: center">Tiempo estimado de producción </th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Lunes-Jueves</td>
+            <td style="text-align: center">3H02min12s</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Moldeado de la arepa</td>
+            <td style="text-align: center">3H006min20s</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Cocinado en el horno</td>
+            <td style="text-align: center">3H049min25s</td>
+        </tr>
+    </table>
+</body>
+
