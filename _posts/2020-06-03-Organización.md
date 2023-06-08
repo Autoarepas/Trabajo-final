@@ -254,7 +254,7 @@ Una vez implementada la automatización a la empresa, se hace una comparación e
         </tr>
         <tr>
             <td style="text-align: center">Lunes-Jueves</td>
-            <td style="text-align: center">3H02min12s</td>
+            <td style="text-align: center">2H02min12s</td>
         </tr>
         <tr>
             <td style="text-align: center">Moldeado de la arepa</td>
