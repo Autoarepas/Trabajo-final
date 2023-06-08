@@ -37,19 +37,19 @@ De esta barra de datos se obtienen los siguientes valores de rendimiento:
         </tr>
         <tr>
             <td>Preparación de la masa</td>
-            <td>66%</td>
+            <td>66</td>
         </tr>
         <tr>
             <td>Moldeado de la arepa</td>
-            <td>70%</td>
+            <td>70</td>
         </tr>
         <tr>
             <td>Cocinado en el horno</td>
-            <td>86%</td>
+            <td>86</td>
         </tr>
         <tr>
             <td>Empaquetado de la arepa</td>
-            <td>66%</td>
+            <td>66</td>
         </tr>
     </table>
 </body>
