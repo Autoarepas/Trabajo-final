@@ -32,26 +32,40 @@ De esta barra de datos se obtienen los siguientes valores de rendimiento:
 <body>
     <table>
         <tr>
-            <th>Proceso</th>
-            <th>Rendimiento </th>
+            <th style="text-align: center">Proceso</th>
+            <th style="text-align: center">Rendimiento </th>
         </tr>
         <tr>
-            <td>Preparación de la masa</td>
-            <td>66</td>
+            <td style="text-align: center">Preparación de la masa</td>
+            <td style="text-align: center">66%</td>
         </tr>
         <tr>
-            <td>Moldeado de la arepa</td>
-            <td>70</td>
+            <td style="text-align: center">Moldeado de la arepa</td>
+            <td style="text-align: center">70%</td>
         </tr>
         <tr>
-            <td>Cocinado en el horno</td>
-            <td>86</td>
+            <td style="text-align: center">Cocinado en el horno</td>
+            <td style="text-align: center">86%</td>
         </tr>
         <tr>
-            <td>Empaquetado de la arepa</td>
-            <td>66</td>
+            <td style="text-align: center">Empaquetado de la arepa</td>
+            <td style="text-align: center">66%</td>
         </tr>
     </table>
 </body>
 
-Analizando los valores de rendimiento se puede observar que la maquina que está trabajando más tiempo es el horno, por lo que significa que tiene el proceso mas lento entre todas y retiene el producto durante la linea de producción, por lo que el proceso critico a solucionar es este.
+Analizando los valores de rendimiento se puede observar que la maquina que está trabajando más tiempo es el horno, por lo que significa que tiene el proceso mas lento entre todas y retiene el producto durante la linea de producción, por lo que el proceso critico a solucionar es este. Cada proceso tiene diversos indices, con estos se evaluará cual es de todos es el proceso menos eficiente utilizando el indice global de eficiencia (OEE).
+
+<ul>
+    <li> <b><i>Preparación de la mezcla</i></b> </li>
+    <img src="/Trabajo-final/assets/img/preparación inicial.jpg" alt="Eficiencia">
+    <li> <b><i>Moldeado de las arepas</i></b> </li>
+    <img src="/Trabajo-final/assets/img/moldeado inicial.jpg" alt="Eficiencia">
+    <li> <b><i>Cocinado</i></b> </li>
+    <img src="/Trabajo-final/assets/img/cocinado inicial.jpg" alt="Eficiencia">
+    <li> <b><i>Empaquetado</i></b> </li>
+    <img src="/Trabajo-final/assets/img/empaquetado inicial.jpg" alt="Eficiencia">
+</ul>
+
+
+
