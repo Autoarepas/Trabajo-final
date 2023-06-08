@@ -19,7 +19,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
   <b> Obtenida de: </b> 
   
   <p>
-  Conozca mas de la maquina en
+  Conozca más de la máquina en
   <a href="https://tecnoembalaje.com/producto/dosificador-por-peso-automatico-lineal-de-cuatro-cabezales/">Dosificadora de 4 cabezales</a>.
 </p>
   
@@ -32,7 +32,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de mezclado de la masa de la arepa se realiza de manera manual e ineficiente, ya que para esta se requiere mucho tiempo y se presentan situaciones donde la masa no tiene las propiedades requeridas
   
  <p>
-  Conozca mas de la maquina en
+  Conozca más de la máquina en
   <a href="https://www.interempresas.net/Alimentaria/FeriaVirtual/Producto-Mezcladora-planetaria-Plamixer-PL-66692.html">Mezcladora planetaria</a>.
 </p>
   
@@ -45,7 +45,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <p>
-  Conozca mas de la maquina en
+  Conozca más de la máquina en
   <a href="https://admin.pallomaro.com/backend/admin/backend/web/archivosDelCliente/items/anexos/PANADERIA-LAMINADORAS-LAMINADORA-DE-MASA-C430X1700MM-837-MANUAL-DE-INSTRUCCIONES-LAMINADORA-DE-MASA-T-450A20200722103137.pdf">Manual cortadora de masa</a>.
 </p> 
   
@@ -58,7 +58,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el proceso de conformado de la arepa es manual e inconsistente en el tamaño de la arepa, dando como resultado a futuro que se obtienen menos unidades producidas y se consume una cantidad desigual de masa.
   
 <p>
-  Conozca mas de la maquina en
+  Conozca más de la máquina en
   <a href="https://www.megatiendadeproyectos.com/product-page/laminadora-industrial-para-arepas-rellenas-40-cm">Laminadora de masa</a>.
 </p> 
   
@@ -71,7 +71,7 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
 <b> Justificación </b>: Se evidenció en la revisión del estado actual de la empresa, qué en el proceso de cocción de la arepa es mediante una parrilla con capacidad limitada, lo que quiere decir que este proceso retrasa la producción de las arepas. Con el uso de un horno tipo tunel se puede una producción continúa y no dependiente del tiempo de cocción dado por el operario, asegurando calidad en el producto. 
   
   <p>
-  Conozca mas de la maquina en
+  Conozca más de la máquina en
   <a href="https://www.megatiendadeproyectos.com/product-page/horno-de-t%C3%BAnel-1-nivel-con-malla-estructura-en-acero">Horno tunel</a>.
 </p> 
   
