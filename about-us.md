@@ -82,7 +82,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
           <p>
               Carlos Daniel Raigoso Triana</p>
           <p>
-              caigosot@unal.edu.co</p>
+              craigosot@unal.edu.co</p>
         </div>
     </div>
     
