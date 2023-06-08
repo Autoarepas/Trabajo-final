@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Realización del primer MES
+title: condiciones de la empresa en el MES
 thumbnail-img: /assets/img/odoo.png
 subtitle: Análisis del comportamiento de la empresa con los datos actuales
 ---
