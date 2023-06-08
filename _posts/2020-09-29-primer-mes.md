@@ -71,7 +71,7 @@ Como se puede observar el OEE va a tener valores similares al indice de rendimie
 
 ## Costos totales
 
-Los costos se obtienen a partir 
+Los costos se obtienen a partir de la simulación ingresando los valores conocidos de la materia prima (obtenidos de <a href="https://autoarepas.github.io/Trabajo-final/2020-10-01-materia-prima/">Materia prima</a>)
 
 
 
