@@ -165,4 +165,40 @@ Como se observa a medida que se aumentan las ventan disminuye el costo unitario,
   <img src="/Trabajo-final/assets/img/JIR.png" alt="Image" style="width:300px;height:300px;">
 </div>
 
+## Tiempos de producción
+
+<head>
+    <title>Centered Table Example</title>
+    <style>
+        table {
+            margin: 0 auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Dia(s) de la semana</th>
+            <th style="text-align: center">Tiempo estimado de producción </th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Lunes-Jueves</td>
+            <td style="text-align: center">4H20min00s</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Moldeado de la arepa</td>
+            <td style="text-align: center">6H032min00s</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Cocinado en el horno</td>
+            <td style="text-align: center">7H58min00s</td>
+        </tr>
+    </table>
+</body>
 
