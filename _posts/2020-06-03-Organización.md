@@ -230,6 +230,7 @@ Una vez implementada la automatización a la empresa, se hace una comparación e
     </table>
 </body>
 
+## Tiempos de producción estimados
 
 <head>
     <title>Centered Table Example</title>
