@@ -13,7 +13,7 @@ Realizando la simulación de la linea de producción por una semana, esta genera
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/flowc.jpg" alt="Image" style="width:900px;height:450px;">
 </div>
-
+La gráfica general de Rendimiento
 <div style="text-align:center">
   <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:900px;height:450px;">
 </div>
