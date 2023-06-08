@@ -12,7 +12,7 @@ Utilizando los datos obtenidos por los empleados y lideres de la empresa, se pro
 Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas
 
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:800px;height:450px;">
+  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:900px;height:450px;">
 </div>
 
 De esta barra de datos se obtienen los siguientes valores de rendimiento:
@@ -75,7 +75,30 @@ Como se puede observar el OEE va a tener valores similares al indice de rendimie
 
 Los costos se obtienen a partir de la simulación ingresando los valores conocidos de la materia prima (mostrados en <a href="https://autoarepas.github.io/Trabajo-final/2020-10-01-materia-prima/">materia prima</a>), los costos del personal (2 personas con salario mínimo), entre otros costos fijos y variables se tienen los costos por dias de la semana:
 
+<body>
+  <div class="table-container">
+    <table border="1">
+      <tr>
+        <th style="text-align: center">Dia(s) de la semana</th>
+        <th style="text-align: center">Costo unitario</th>
+      </tr>
+      <tr>
+        <td style="text-align: center"> Lunes-Jueves</td>
+        <td style="text-align: center">651.75 COP</td>
+      </tr>
+      <tr>
+        <td style="text-align: center">Viernes</td>
+        <td style="text-align: center">649.52</td>
+      </tr>
+      <tr>
+        <td style="text-align: center">Sábado-Domingo</td>
+        <td style="text-align: center">648.12</td>
+     </tr>
+    </table>
+  </div>
+</body>
 
+Como se observa a medida que se aumentan las ventan disminuye el costo unitario, y por ende se aumentan las ganancias. Sin embargo es importante tener en cuenta que se debe completar la venta de los productos fabricados, por lo que antes de iniciar una producción seria eficiente tener una cantidad de clientes minimos utilizando el concepto de "Just in Time" (JIT), concepto que no se tocará en la propuesta pero se tendrá como recomendación para la empresa.
 
 
 
