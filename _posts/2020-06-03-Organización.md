@@ -27,7 +27,7 @@ Utilizando como referencia las maquinas mostradas y luego de una extensa búsque
         <tr>
             <th>Proceso</th>
             <th>Máquina</th>
-            <th>Produccón</th>
+            <th>Producción</th>
             <th>Up Time</th>
             <th>Down Time</th>
             <th>Paradas</th>
