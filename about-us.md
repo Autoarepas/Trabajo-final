@@ -116,7 +116,7 @@ Gracias por visitarnos y considerar nuestra propuesta. Esperamos tener la oportu
     
     <div class="photo-container">
         <div class="photo">
-            <img src="/Trabajo-final/assets/img/horno.jpg" alt="Photo 2">
+            <img src="/Trabajo-final/assets/img/Fabian.jpg" alt="Photo 2">
         </div>
         <div class="text">
             <p>
