@@ -87,4 +87,65 @@ Utilizando como referencia las maquinas mostradas y luego de una extensa búsque
     </table>
 </body>
 
-A partir de esto se les calcula el porcentaje de disponibilidad
+
+## Tiempos de producción y rendimiento de procesos
+
+Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento.
+
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/perfectos.jpg" alt="Image" style="width:900px;height:450px;">
+</div>
+
+De esta barra de datos se obtienen los siguientes valores de rendimiento:
+
+<head>
+    <title>Centered Table Example</title>
+    <style>
+        table {
+            margin: 0 auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Proceso</th>
+            <th style="text-align: center">Rendimiento </th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Preparación de la masa</td>
+            <td style="text-align: center">71%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Moldeado de la arepa</td>
+            <td style="text-align: center">89%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Cocinado en el horno</td>
+            <td style="text-align: center">95%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Empaquetado de la arepa</td>
+            <td style="text-align: center">90%</td>
+        </tr>
+    </table>
+</body>
+
+Analizando los valores de rendimiento se puede observar que la maquina que está trabajando más tiempo es el horno, por lo que significa que tiene el proceso mas lento entre todos y retiene el producto durante la linea de producción, por lo que el proceso critico a solucionar es este. Cada proceso tiene diversos indices, con estos se evaluará cual es de todos es el proceso menos eficiente utilizando el indice global de eficiencia (OEE).
+
+<ul>
+    <li> <b><i>Preparación de la mezcla</i></b> </li>
+    <img src="/Trabajo-final/assets/img/prepmasa.jpg" alt="Eficiencia">
+    <li> <b><i>Moldeado de las arepas</i></b> </li>
+    <img src="/Trabajo-final/assets/img/moldeo.jpg" alt="Eficiencia">
+    <li> <b><i>Cocinado</i></b> </li>
+    <img src="/Trabajo-final/assets/img/horno.jpg" alt="Eficiencia">
+    <li> <b><i>Empaquetado</i></b> </li>
+    <img src="/Trabajo-final/assets/img/empaquetamiento.jpg" alt="Eficiencia">
+</ul>
