@@ -73,6 +73,41 @@ Analizando los valores de rendimiento se puede observar que la maquina que está
 </ul>
 
 Como se puede observar el OEE va a tener valores similares al indice de rendimiento ya que no se tienen en cuenta valores de carga ni de mantenimiento ya que son procesos manuales y depende exclusivamente de la velocidad del personal, por lo que no existen registros de estos valores. De nuevo, el cocinado es el proceso que mas valor tiene en los indices en general, por lo que es la maquina que mas realiza trabajo, sin embargo como es la unica maquinaria este indice debe ser menor ya que debe tener indices de mantenimiento que no se pueden tener en cuenta debido a falta de datos.
+A Continuación se presentan los tiempos estimados de producción para las distintas condiciones durante la semana.
+
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Dia de producción</th>
+            <th style="text-align: center"> Preparación de Masa</th>
+            <th style="text-align: center"> Moldeado de Arepa</th>
+            <th style="text-align: center"> Horno</th>
+            <th style="text-align: center"> Empaquetado</th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Lunes-Jueves</td>
+            <td style="text-align: center">20 min</td>
+            <td style="text-align: center">89 min</td>
+            <td style="text-align: center"> 193 min </td>
+            <td style="text-align: center"> 47 min </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Viernes</td>
+            <td style="text-align: center">22 min</td>
+            <td style="text-align: center">149 min</td>
+            <td style="text-align: center"> 298 min </td>
+            <td style="text-align: center"> 72 min </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Sábado-Domingo</td>
+            <td style="text-align: center"> 25 min</td>
+            <td style="text-align: center">182 min</td>
+            <td style="text-align: center">364 min </td>
+            <td style="text-align: center">89 min </td>
+        </tr>
+    </table>
+</body>
+
 
 ## Costos totales
 
