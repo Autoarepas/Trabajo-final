@@ -5,13 +5,13 @@ thumbnail-img: /assets/img/odoo.png
 subtitle: Análisis del comportamiento de la empresa con los datos actuales
 ---
 
-Utilizando los datos dados por los empleados y lideres de la empresa se procede a recopilar los datos para realizar un sistema de ejecuión de manufactura (MES) y se recopilarán en una simulación de la linea de producción para conocer la eficiencia general de este proceso.
+Utilizando los datos obtenidos por los empleados y lideres de la empresa, se procede a organizarlos por medio de la herramienta de ejecuión de manufactura (MES) y se realizará una simulación de la linea de producción para conocer la eficiencia general de este proceso en el momento actual.
 
 ## Tiempos de producción diaria
 
-Se realiza la simulación de producción de una semana de la empresa con los datos obtenidos se tienen los valores de eficiencia y tiempo demorado del uso de la maquina:
+Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas
 
-<img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Eficiencia">
+<img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Eficiencia" style="width:300px;height:300px;">
 
 De esta barra de datos se obtienen los siguientes valores de rendimiento:
 
@@ -53,3 +53,5 @@ De esta barra de datos se obtienen los siguientes valores de rendimiento:
         </tr>
     </table>
 </body>
+
+Analizando los valores de rendimiento se puede observar que la maquina que está trabajando más tiempo es el horno, por lo que significa que tiene el proceso mas lento entre todas y retiene el producto durante la linea de producción, por lo que el proceso critico a solucionar es este.
