@@ -5,7 +5,30 @@ thumbnail-img: /assets/img/odoo.png
 subtitle: Análisis del comportamiento de la empresa con los datos actuales
 ---
 
-Utilizando los datos obtenidos por los empleados y lideres de la empresa, se procede a organizarlos por medio de la herramienta de ejecuión de manufactura (MES) y se realizará una simulación de la linea de producción para conocer la eficiencia general de este proceso en el momento actual.
+Utilizando los datos obtenidos por los empleados y lideres de la empresa, se procede a organizarlos por medio de la herramienta de ejecuión de manufactura (MES) y se realizará una simulación de la linea de producción para conocer la eficiencia general de este proceso en el momento actual. Presentando los valores actuales de la empresa.
+
+<body>
+  <div class="table-container">
+    <table border="1">
+      <tr>
+        <th style="text-align: center">Dia(s) de la semana</th>
+        <th style="text-align: center">Unidades</th>
+      </tr>
+      <tr>
+        <td style="text-align: center"> Lunes-Jueves</td>
+        <td style="text-align: center">500</td>
+      </tr>
+      <tr>
+        <td style="text-align: center">Viernes</td>
+        <td style="text-align: center">800</td>
+      </tr>
+      <tr>
+        <td style="text-align: center">Sábado-Domingo</td>
+        <td style="text-align: center">1000</td>
+     </tr>
+    </table>
+  </div>
+</body>
 
 ## Tiempos de producción y rendimiento de procesos
 
