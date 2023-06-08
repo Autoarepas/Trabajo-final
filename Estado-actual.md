@@ -116,7 +116,7 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
 </div>
 
 
-Esto indica un aproximado de producción esperada de 7 horas (calculos mostrados en <a href="https://autoarepas.github.io/Trabajo-final/2020-09-29-primer-mes/">primer MES</a>.)
+Esto indica un aproximado de producción esperada de 7 horas (calculos mostrados en <a href="https://autoarepas.github.io/Trabajo-final/2020-09-29-primer-mes/">primer MES</a>)
 
 
 ## Materia prima
