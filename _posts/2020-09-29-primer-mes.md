@@ -12,7 +12,7 @@ Utilizando los datos obtenidos por los empleados y lideres de la empresa, se pro
 Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas
 
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:800px;height:400px;">
+  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:800px;height:450px;">
 </div>
 
 De esta barra de datos se obtienen los siguientes valores de rendimiento:
