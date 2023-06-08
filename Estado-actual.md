@@ -75,7 +75,7 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
       </tr>
       <tr>
         <td style="text-align: center">Preparación de la masa</td>
-        <td style="text-align: center">0.75 horas</td>
+        <td style="text-align: center">15 minutos</td>
         <td style="text-align: center">1 preparación</td>
         <td style="text-align: center">500</td>
       </tr>
@@ -116,7 +116,10 @@ La dotación de maquinaria de la empresa es unicamente un horno asador de arepas
 </div>
 
 
-Esto indica un aproximado de producción esperada de 7 horas para todo el proceso de un dia critico (en fin de semana) para una jornada de 8 horas, si bien las arepas se entregan durante el dia en el momento que se tienen hechas, se requiere un proceso mas veloz para poder entregarlas de manera mas eficiente.
+Esto indica un aproximado de producción esperada de 7 horas (calculos mostrados en <p>
+  Conozca mas de la maquina en
+  <a href="https://autoarepas.github.io/Trabajo-final/2020-09-29-primer-mes/">primer MES</a>.
+</p>)
 
 
 ## Materia prima
