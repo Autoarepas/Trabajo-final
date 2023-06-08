@@ -16,7 +16,12 @@ Después de realizar una investigación y un análisis sobre las máquinas que s
   <img src="/Trabajo-final/assets/img/dosificador.png" alt="Image" style="width:300px;height:300px;">
 </div>
   <b> Justificación </b> : Se evidenció en la revisión del estado actual de la empresa, qué el uso de los ingredientes no es de la manera más eficiente y no se tiene un control de las proporciones a usar en la preparación de las arepas. Debido a lo anterior se propone el uso de una dosificadora para solventar dichas dificultades. 
-  <b> Obtenida de: </b> <link> https://tecnoembalaje.com/producto/dosificador-por-peso-automatico-lineal-de-cuatro-cabezales/ <\link>
+  <b> Obtenida de: </b> 
+  
+  <p>
+  Obtenida de
+  <a href="https://tecnoembalaje.com/producto/dosificador-por-peso-automatico-lineal-de-cuatro-cabezales/">Dosificadora de 4 cabezales</a>.
+</p>
   
 <li> <b><i>Mezclado</i></b></li>
   <b> Máquina </b>: Mezcladora planetaria: para el amasado de productos de alta viscosidad y tixotropía 700 L<br>
