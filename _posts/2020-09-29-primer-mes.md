@@ -38,7 +38,7 @@ Realizando la simulación de la linea de producción por una semana, esta genera
 </div>
 La gráfica general de Rendimiento
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/eficiencia inicial.jpg" alt="Image" style="width:900px;height:450px;">
+  <img src="/Trabajo-final/assets/img/eficienciap_real.jpg" alt="Image" style="width:900px;height:450px;">
 </div>
 
 De esta barra de datos se obtienen los siguientes valores de rendimiento:
