@@ -187,3 +187,45 @@ Dando como resultado los siguientes tiempos de producción
         </tr>
     </table>
 </body>
+
+## Aumento en productividad
+
+Una vez implementada la automatización a la empresa, se hace una comparación en el aumento en la productividad para las diferentes estaciones de operación.
+<head>
+    <title>Centered Table Example</title>
+    <style>
+        table {
+            margin: 0 auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th style="text-align: center">Proceso</th>
+            <th style="text-align: center">Aumento Productividad </th>
+        </tr>
+        <tr>
+            <td style="text-align: center">Preparación de la masa</td>
+            <td style="text-align: center">87%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Moldeado de la arepa</td>
+            <td style="text-align: center">335%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Cocinado en el horno</td>
+            <td style="text-align: center">297%</td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Empaquetado de la arepa</td>
+            <td style="text-align: center">89%</td>
+        </tr>
+    </table>
+</body>
