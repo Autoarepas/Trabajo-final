@@ -92,7 +92,7 @@ Utilizando como referencia las maquinas mostradas y luego de una extensa búsque
 
 Realizando la simulación de la linea de producción por una semana, esta genera una gráfica general de rendimiento en cuestión de horas. Se presenta un esquema de la línea de producción
 <div style="text-align:center">
-  <img src="/Trabajo-final/assets/img/flowc.jpg" alt="Image" style="width:900px;height:450px;">
+  <img src="/Trabajo-final/assets/img/proceso propuesta.png" alt="Image" style="width:900px;height:450px;">
 </div>
 La gráfica general de Rendimiento
 <div style="text-align:center">
