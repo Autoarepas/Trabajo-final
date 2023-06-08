@@ -100,5 +100,8 @@ Los costos se obtienen a partir de la simulación ingresando los valores conocid
 
 Como se observa a medida que se aumentan las ventan disminuye el costo unitario, y por ende se aumentan las ganancias. Sin embargo es importante tener en cuenta que se debe completar la venta de los productos fabricados, por lo que antes de iniciar una producción seria eficiente tener una cantidad de clientes minimos utilizando el concepto de "Just in Time" (JIT), concepto que no se tocará en la propuesta pero se tendrá como recomendación para la empresa.
 
+<div style="text-align:center">
+  <img src="/Trabajo-final/assets/img/JIR.png" alt="Image" style="width:300px;height:300px;">
+</div>
 
 
